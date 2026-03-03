@@ -13,6 +13,7 @@ feeds:
 digest_times_local:
   - "09:00"
   - "14:00"
+  - "17:50"
 
 places:
   counties:
