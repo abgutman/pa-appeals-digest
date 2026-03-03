@@ -1,35 +1,199 @@
 from __future__ import annotations
+
 from datetime import datetime, timezone
-from typing import Any, Dict, List
-import os
+from typing import Any, Dict, List, Tuple
+from pathlib import Path
 
 from src.config import load_config, get_feeds
 from src.state import load_state, save_state, utc_now_iso
-from src.feeds import fetch_feed
+from src.feeds import fetch_feed, FeedItem
 from src.fetch import fetch_html, extract_text_from_html, find_pdf_links, download_pdf
 from src.pdf_text import extract_pdf_text
 from src.scoring import score_item
 from src.digest import is_digest_time, build_digest_md, format_window
 
+OUT_DIR = Path("out")
 
-def stable_item_id(item) -> str:
-    # Prefer GUID; else link; else title hash fallback
+
+def stable_item_id(item: FeedItem) -> str:
+    # Prefer GUID; else link; else title
     return (item.guid or item.link or item.title).strip()
 
 
-def make_excerpt(full_text: str, terms: List[str], max_len: int = 220) -> str:
+def make_excerpt(full_text: str, preferred_terms: List[str], max_words: int = 45) -> str:
+    """
+    Non-LLM "summary": pick a short snippet near a preferred term if possible,
+    otherwise fall back to the first ~max_words words.
+    """
     if not full_text:
         return ""
-    low = full_text.lower()
+
+    text = " ".join(full_text.split())
+    low = text.lower()
+
+    for t in preferred_terms:
+        idx = low.find(t.lower())
+        if idx != -1:
+            start = max(0, idx - 180)
+            end = min(len(text), idx + 180)
+            snippet = text[start:end].strip()
+            # trim to roughly 1–2 lines by word count
+            words = snippet.split()
+            if len(words) > max_words:
+                snippet = " ".join(words[:max_words]) + "..."
+            return snippet
+
+    words = text.split()
+    if len(words) > max_words:
+        return " ".join(words[:max_words]) + "..."
+    return text
+
+
+def build_preferred_terms(cfg: Dict[str, Any]) -> List[str]:
+    terms: List[str] = []
+    places = cfg.get("places", {})
+    terms.extend(places.get("counties", []))
+    terms.extend(places.get("cities", []))
+    for sp in places.get("special", []):
+        terms.append(sp.get("term", ""))
+    terms.extend(cfg.get("reversal_indicators", []))
+    terms.extend(cfg.get("precedential", {}).get("indicators", []))
+    # de-dupe, preserve order, remove empties
+    out = []
+    seen = set()
     for t in terms:
-        i = low.find(t.lower())
-        if i != -1:
-            start = max(0, i - 120)
-            end = min(len(full_text), i + 120)
-            snippet = full_text[start:end].strip()
-            return " ".join(snippet.split())
-    # fallback first line-ish
-    return " ".join(full_text.strip().split()[:40])
+        t = (t or "").strip()
+        if not t:
+            continue
+        if t not in seen:
+            seen.add(t)
+            out.append(t)
+    return out
 
 
 def main() -> int:
+    cfg = load_config()
+    feeds = get_feeds(cfg)
+
+    state = load_state()
+    state.setdefault("seen", {})
+    state.setdefault("processed", {})  # item_id -> processed record
+    state.setdefault("last_digest_utc", None)
+
+    now_utc = datetime.now(timezone.utc).replace(microsecond=0)
+
+    preferred_terms = build_preferred_terms(cfg)
+
+    any_new = False
+    new_processed_ids: List[str] = []
+
+    # 1) Fetch feeds and process any newly discovered items
+    for f in feeds:
+        items = fetch_feed(f.court, f.url)
+        for item in items:
+            item_id = stable_item_id(item)
+            if not item_id:
+                continue
+
+            if item_id in state["seen"]:
+                continue
+
+            any_new = True
+            state["seen"][item_id] = {
+                "first_seen_utc": now_utc.isoformat(),
+                "court": item.court,
+                "title": item.title,
+                "link": item.link,
+                "published_utc": item.published_utc,
+            }
+
+            # Fetch linked page and any PDFs
+            html_text = ""
+            pdf_text = ""
+            pdf_links: List[str] = []
+
+            try:
+                html = fetch_html(item.link)
+                html_text = extract_text_from_html(html)
+                pdf_links = find_pdf_links(item.link, html)
+            except Exception as e:
+                html_text = ""
+                pdf_links = []
+
+            # Download first PDF and extract limited text (beta)
+            if pdf_links:
+                try:
+                    pdf_bytes = download_pdf(pdf_links[0])
+                    pdf_text = extract_pdf_text(pdf_bytes, max_pages=3)
+                except Exception:
+                    pdf_text = ""
+
+            combined_text = "\n".join([item.title or "", html_text or "", pdf_text or ""]).strip()
+
+            score, reasons = score_item(item.court, combined_text, cfg)
+            excerpt_source = pdf_text or html_text or combined_text
+            excerpt = make_excerpt(excerpt_source, preferred_terms)
+
+            state["processed"][item_id] = {
+                "processed_utc": now_utc.isoformat(),
+                "first_seen_utc": state["seen"][item_id]["first_seen_utc"],
+                "court": item.court,
+                "title": item.title,
+                "link": item.link,
+                "published_utc": item.published_utc,
+                "score": score,
+                "flags": reasons.get("flags", []),
+                "doc_types": reasons.get("doc_types", ["Unknown"]),
+                "place_hits": reasons.get("place_hits", []),
+                "special_hits": reasons.get("special_hits", []),
+                "reversal_hits": reasons.get("reversal_hits", []),
+                "pdf_link": pdf_links[0] if pdf_links else None,
+                "excerpt": excerpt,
+            }
+            new_processed_ids.append(item_id)
+
+    # Persist state after processing new items (even on non-digest hours)
+    if any_new:
+        save_state(state)
+
+    # 2) If it's digest time, build digest for window since last digest
+    if is_digest_time(cfg, now_utc):
+        last_digest_utc = state.get("last_digest_utc")
+        window_label = format_window(cfg, last_digest_utc, now_utc)
+
+        # Select processed items whose first_seen_utc falls within window and score > 0
+        digest_items: List[Dict[str, Any]] = []
+        for item_id, rec in state["processed"].items():
+            first_seen = rec.get("first_seen_utc")
+            if not first_seen:
+                continue
+            if last_digest_utc and first_seen <= last_digest_utc:
+                continue
+            if first_seen > now_utc.isoformat():
+                continue
+            if int(rec.get("score", 0)) <= 0:
+                continue
+            digest_items.append(rec)
+
+        digest_items.sort(key=lambda r: int(r.get("score", 0)), reverse=True)
+
+        md = build_digest_md(cfg, window_label, digest_items)
+
+        # Print to logs
+        print(md)
+
+        # Write artifact file
+        OUT_DIR.mkdir(parents=True, exist_ok=True)
+        ts = now_utc.strftime("%Y-%m-%d_%H%MUTC")
+        out_path = OUT_DIR / f"digest_{ts}.md"
+        out_path.write_text(md, encoding="utf-8")
+
+        # Update last_digest and save
+        state["last_digest_utc"] = now_utc.isoformat()
+        save_state(state)
+
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
