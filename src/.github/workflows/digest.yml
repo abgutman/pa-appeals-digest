@@ -31,6 +31,7 @@ jobs:
 
       - name: Run agent
         env:
+          FORCE_DIGEST: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
           # Slack not used yet; keep placeholder for later if you want
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
