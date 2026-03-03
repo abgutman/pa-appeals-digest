@@ -1,12 +1,14 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
-import os
-from typing import Any, Dict, List, Tuple
 from pathlib import Path
+from typing import Any, Dict, List
+
+import os
+import pytz
 
 from src.config import load_config, get_feeds
-from src.state import load_state, save_state, utc_now_iso
+from src.state import load_state, save_state
 from src.feeds import fetch_feed, FeedItem
 from src.fetch import fetch_html, extract_text_from_html, find_pdf_links, download_pdf
 from src.pdf_text import extract_pdf_text
@@ -17,31 +19,27 @@ OUT_DIR = Path("out")
 
 
 def stable_item_id(item: FeedItem) -> str:
-    # Prefer GUID; else link; else title
     return (item.guid or item.link or item.title).strip()
 
 
 def make_excerpt(full_text: str, preferred_terms: List[str], max_words: int = 45) -> str:
-    """
-    Non-LLM "summary": pick a short snippet near a preferred term if possible,
-    otherwise fall back to the first ~max_words words.
-    """
     if not full_text:
         return ""
-
     text = " ".join(full_text.split())
     low = text.lower()
 
     for t in preferred_terms:
+        t = (t or "").strip()
+        if not t:
+            continue
         idx = low.find(t.lower())
         if idx != -1:
             start = max(0, idx - 180)
             end = min(len(text), idx + 180)
             snippet = text[start:end].strip()
-            # trim to roughly 1–2 lines by word count
             words = snippet.split()
             if len(words) > max_words:
-                snippet = " ".join(words[:max_words]) + "..."
+                return " ".join(words[:max_words]) + "..."
             return snippet
 
     words = text.split()
@@ -57,10 +55,11 @@ def build_preferred_terms(cfg: Dict[str, Any]) -> List[str]:
     terms.extend(places.get("cities", []))
     for sp in places.get("special", []):
         terms.append(sp.get("term", ""))
+
     terms.extend(cfg.get("reversal_indicators", []))
     terms.extend(cfg.get("precedential", {}).get("indicators", []))
-    # de-dupe, preserve order, remove empties
-    out = []
+
+    out: List[str] = []
     seen = set()
     for t in terms:
         t = (t or "").strip()
@@ -75,22 +74,24 @@ def build_preferred_terms(cfg: Dict[str, Any]) -> List[str]:
 def main() -> int:
     cfg = load_config()
     feeds = get_feeds(cfg)
+
     state = load_state()
     state.setdefault("seen", {})
-    state.setdefault("processed", {})  # item_id -> processed record
+    state.setdefault("processed", {})
     state.setdefault("last_digest_utc", None)
 
     now_utc = datetime.now(timezone.utc).replace(microsecond=0)
-    import pytz
     tz = pytz.timezone(cfg["timezone"])
-    print(f"now_utc={now_utc.isoformat()} now_local={now_utc.astimezone(tz).strftime('%Y-%m-%d %H:%M %Z')}")
+    print(
+        f"now_utc={now_utc.isoformat()} "
+        f"now_local={now_utc.astimezone(tz).strftime('%Y-%m-%d %H:%M %Z')}"
+    )
 
     preferred_terms = build_preferred_terms(cfg)
 
     any_new = False
-    new_processed_ids: List[str] = []
 
-    # 1) Fetch feeds and process any newly discovered items
+    # 1) Poll RSS and process newly discovered items
     for f in feeds:
         items = fetch_feed(f.court, f.url)
         for item in items:
@@ -110,7 +111,6 @@ def main() -> int:
                 "published_utc": item.published_utc,
             }
 
-            # Fetch linked page and any PDFs
             html_text = ""
             pdf_text = ""
             pdf_links: List[str] = []
@@ -119,11 +119,10 @@ def main() -> int:
                 html = fetch_html(item.link)
                 html_text = extract_text_from_html(html)
                 pdf_links = find_pdf_links(item.link, html)
-            except Exception as e:
+            except Exception:
                 html_text = ""
                 pdf_links = []
 
-            # Download first PDF and extract limited text (beta)
             if pdf_links:
                 try:
                     pdf_bytes = download_pdf(pdf_links[0])
@@ -131,7 +130,9 @@ def main() -> int:
                 except Exception:
                     pdf_text = ""
 
-            combined_text = "\n".join([item.title or "", html_text or "", pdf_text or ""]).strip()
+            combined_text = "\n".join(
+                [item.title or "", html_text or "", pdf_text or ""]
+            ).strip()
 
             score, reasons = score_item(item.court, combined_text, cfg)
             excerpt_source = pdf_text or html_text or combined_text
@@ -153,21 +154,19 @@ def main() -> int:
                 "pdf_link": pdf_links[0] if pdf_links else None,
                 "excerpt": excerpt,
             }
-            new_processed_ids.append(item_id)
 
-    # Persist state after processing new items (even on non-digest hours)
+    # Save state whenever we see new items
     if any_new:
         save_state(state)
 
-    # 2) If it's digest time, build digest for window since last digest
+    # 2) Create digest only at digest times (or forced)
     force = os.getenv("FORCE_DIGEST", "").strip() == "1"
-if force or is_digest_time(cfg, now_utc):
+    if force or is_digest_time(cfg, now_utc):
         last_digest_utc = state.get("last_digest_utc")
         window_label = format_window(cfg, last_digest_utc, now_utc)
 
-        # Select processed items whose first_seen_utc falls within window and score > 0
         digest_items: List[Dict[str, Any]] = []
-        for item_id, rec in state["processed"].items():
+        for _item_id, rec in state["processed"].items():
             first_seen = rec.get("first_seen_utc")
             if not first_seen:
                 continue
@@ -183,16 +182,16 @@ if force or is_digest_time(cfg, now_utc):
 
         md = build_digest_md(cfg, window_label, digest_items)
 
-        # Print to logs
+        # print to logs
         print(md)
 
-        # Write artifact file
+        # write artifact
         OUT_DIR.mkdir(parents=True, exist_ok=True)
         ts = now_utc.strftime("%Y-%m-%d_%H%MUTC")
         out_path = OUT_DIR / f"digest_{ts}.md"
         out_path.write_text(md, encoding="utf-8")
 
-        # Update last_digest and save
+        # update last digest
         state["last_digest_utc"] = now_utc.isoformat()
         save_state(state)
 
