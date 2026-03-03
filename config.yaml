@@ -1,0 +1,79 @@
+timezone: "America/New_York"
+
+feeds:
+  - court: "Disciplinary Board"
+    url: "https://www.pacourts.us/Rss/Opinions/DisciplinaryBoard/"
+  - court: "Commonwealth Court"
+    url: "https://www.pacourts.us/Rss/Opinions/Commonwealth/"
+  - court: "Superior Court"
+    url: "https://www.pacourts.us/Rss/Opinions/Superior/"
+  - court: "Pennsylvania Supreme Court"
+    url: "https://www.pacourts.us/Rss/Opinions/Supreme/"
+
+digest_times_local:
+  - "09:00"
+  - "14:00"
+
+places:
+  counties:
+    - "Philadelphia County"
+    - "Montgomery County"
+    - "Delaware County"
+    - "Chester County"
+    - "Bucks County"
+  cities:
+    - "Philadelphia"
+    - "Norristown"
+    - "Pottstown"
+    - "Conshohocken"
+    - "Lansdale"
+    - "Media"
+    - "Chester"
+    - "Upper Darby"
+    - "West Chester"
+    - "Coatesville"
+    - "Doylestown"
+    - "Newtown"
+    - "Bristol"
+  special:
+    - term: "Lower Merion"
+      points: 10
+    - term: "Lower Merion Township"
+      points: 10
+
+scoring:
+  place_match_points: 70
+  precedential_points: 30
+  opinion_points: 15
+  reversal_points: 25
+
+precedential:
+  supreme_always_precedential: true
+  indicators:
+    - "precedential"
+    - "reported"
+
+opinion_type:
+  opinion_indicators:
+    - "opinion"
+    - "majority"
+  non_opinion_indicators:
+    - "order"
+    - "per curiam"
+  dissent_indicators:
+    - "dissent"
+    - "dissenting"
+  concurrence_indicators:
+    - "concurring"
+    - "concurrence"
+  memorandum_indicators:
+    - "memorandum"
+
+reversal_indicators:
+  - "reversed"
+  - "vacated"
+  - "overruled"
+  - "remanded"
+  - "reversed in part"
+  - "vacated in part"
+  - "affirmed in part"
