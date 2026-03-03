@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
+import os
 from typing import Any, Dict, List, Tuple
 from pathlib import Path
 
@@ -159,7 +160,8 @@ def main() -> int:
         save_state(state)
 
     # 2) If it's digest time, build digest for window since last digest
-    if is_digest_time(cfg, now_utc):
+    force = os.getenv("FORCE_DIGEST", "").strip() == "1"
+if force or is_digest_time(cfg, now_utc):
         last_digest_utc = state.get("last_digest_utc")
         window_label = format_window(cfg, last_digest_utc, now_utc)
 
