@@ -74,16 +74,14 @@ def build_preferred_terms(cfg: Dict[str, Any]) -> List[str]:
 def main() -> int:
     cfg = load_config()
     feeds = get_feeds(cfg)
-
     state = load_state()
     state.setdefault("seen", {})
     state.setdefault("processed", {})  # item_id -> processed record
     state.setdefault("last_digest_utc", None)
 
     now_utc = datetime.now(timezone.utc).replace(microsecond=0)
-
     import pytz
-        tz = pytz.timezone(cfg["timezone"])
+    tz = pytz.timezone(cfg["timezone"])
     print(f"now_utc={now_utc.isoformat()} now_local={now_utc.astimezone(tz).strftime('%Y-%m-%d %H:%M %Z')}")
 
     preferred_terms = build_preferred_terms(cfg)
