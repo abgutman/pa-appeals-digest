@@ -2297,6 +2297,42 @@
       "special_hits": [],
       "title": "Judgement List"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/030406 M.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1154 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/030406 M.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-03-04T17:35:28+00:00",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgement List"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/030426 E.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 901 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/030426 E.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-03-04T17:35:28+00:00",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgement List"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A01009-26m - 106697727348925955.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -2364,6 +2400,28 @@
       "score": 100,
       "special_hits": [],
       "title": "Com. v. Abdul-Malik, A.\nNo. 366 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A04037-26o - 106700929349294853.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 67 0 R /Type/Catalog/ViewerPreferences 272 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A04037-26o - 106700929349294853.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-04T17:35:28+00:00",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Pearson, J. v. Pearson, K.\nNo. 1109 MDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A07045-26m - 106697667348943894.pdf": {
       "court": "Superior Court",
@@ -2996,6 +3054,52 @@
       "special_hits": [],
       "title": "Com. v. Woods, E.\nNo. 792 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S07008-25m - 106700908349293143.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "R /StructTreeRoot 119 0 R /Type/Catalog/ViewerPreferences 516 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream...",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S07008-25m - 106700908349293143.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-04T17:35:28+00:00",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Adams Diaz, S.\nNo. 184 MDA 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S31032-25m - 106700623349261669.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 28 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 29 0...",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S31032-25m - 106700623349261669.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-04T17:35:28+00:00",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Carlton, O.\nNo. 2458 EDA 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S32011-25jo - 106699127349158504.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -3307,6 +3411,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Polito, J. v. Polito W.\nNo. 1308 MDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S45034-25m - 106700934349295713.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "uctTreeRoot 59 0 R /Type/Catalog/ViewerPreferences 244 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R 12 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj <...",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S45034-25m - 106700934349295713.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-04T17:35:28+00:00",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Baltimore, M., Jr.\nNo. 445 MDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S46001-25m - 106699412349123444.pdf": {
       "court": "Superior Court",
@@ -5534,6 +5660,20 @@
       "published_utc": "2026-03-03T05:00:00+00:00",
       "title": "Judgement List"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/030406 M.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/030406 M.pdf",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "title": "Judgement List"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/030426 E.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/030426 E.pdf",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "title": "Judgement List"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A01009-26m - 106697727348925955.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-03-03T18:44:27+00:00",
@@ -5554,6 +5694,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A01013-26m - 106697664348921587.pdf",
       "published_utc": "2026-03-02T05:00:00+00:00",
       "title": "Com. v. Abdul-Malik, A.\nNo. 366 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A04037-26o - 106700929349294853.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A04037-26o - 106700929349294853.pdf",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "title": "Pearson, J. v. Pearson, K.\nNo. 1109 MDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A07045-26m - 106697667348943894.pdf": {
       "court": "Superior Court",
@@ -5751,6 +5898,20 @@
       "published_utc": "2026-03-02T05:00:00+00:00",
       "title": "Com. v. Woods, E.\nNo. 792 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S07008-25m - 106700908349293143.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S07008-25m - 106700908349293143.pdf",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "title": "Com. v. Adams Diaz, S.\nNo. 184 MDA 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S31032-25m - 106700623349261669.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S31032-25m - 106700623349261669.pdf",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "title": "Com. v. Carlton, O.\nNo. 2458 EDA 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S32011-25jo - 106699127349158504.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-03-03T18:44:27+00:00",
@@ -5848,6 +6009,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S45001-25m - 106697677348920445.pdf",
       "published_utc": "2026-03-02T05:00:00+00:00",
       "title": "Polito, J. v. Polito W.\nNo. 1308 MDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S45034-25m - 106700934349295713.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-04T17:35:28+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S45034-25m - 106700934349295713.pdf",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "title": "Com. v. Baltimore, M., Jr.\nNo. 445 MDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S46001-25m - 106699412349123444.pdf": {
       "court": "Superior Court",
