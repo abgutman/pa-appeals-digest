@@ -32,7 +32,7 @@ jobs:
       - name: Run agent
         env:
           # Slack not used yet; keep placeholder for later if you want
-          FORCE_DIGEST: "1"
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           python -m src.main
 
