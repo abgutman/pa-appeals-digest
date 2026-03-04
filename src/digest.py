@@ -3,24 +3,23 @@ from __future__ import annotations
 from datetime import datetime, timezone
 import pytz
 
-def format_published_et(cfg, published_utc_iso: str | None) -> str:
-    if not published_utc_iso:
-        return "Unknown"
-    tz = pytz.timezone(cfg["timezone"])
-    dt = datetime.fromisoformat(str(published_utc_iso).replace("Z", "+00:00")).astimezone(tz)
-    return dt.strftime("%Y-%m-%d")
 
 def is_digest_time(cfg, now_utc: datetime) -> bool:
     tz = pytz.timezone(cfg["timezone"])
     local = now_utc.astimezone(tz)
 
-    targets = set(cfg.get("digest_times_local", []))  # ["09:00", "14:00"]
+    # Do not send digests on weekends (Sat=5, Sun=6)
+    if local.weekday() >= 5:
+        return False
 
+    targets = set(cfg.get("digest_times_local", []))  # e.g. ["09:00", "14:00"]
+
+    # exact match
     hhmm = local.strftime("%H:%M")
     if hhmm in targets:
         return True
 
-    # grace window for times like 09:00 and 14:00: allow 0–9 minutes after
+    # grace window: allow 0–9 minutes after an on-the-hour target (09:00–09:09, 14:00–14:09)
     hour = local.strftime("%H")
     minute = int(local.strftime("%M"))
     for t in targets:
@@ -44,6 +43,14 @@ def format_window(cfg, start_utc_iso, end_utc: datetime) -> str:
     return f"(first run) → {end_local:%Y-%m-%d %H:%M} ET"
 
 
+def format_published_et(cfg, published_utc_iso) -> str:
+    if not published_utc_iso:
+        return "Unknown"
+    tz = pytz.timezone(cfg["timezone"])
+    dt = datetime.fromisoformat(str(published_utc_iso).replace("Z", "+00:00")).astimezone(tz)
+    return dt.strftime("%Y-%m-%d")
+
+
 def build_digest_md(cfg, window_label: str, items) -> str:
     lines = []
     lines.append("# PA Appeals Digest")
@@ -58,13 +65,20 @@ def build_digest_md(cfg, window_label: str, items) -> str:
 
     for it in items:
         title = it.get("title", "")
-        published = format_published_et(cfg, it.get("published_utc"))
-        lines.append(f"- Date: {published}")
         link = it.get("link", "")
         court = it.get("court", "")
         score = it.get("score", 0)
         doc_types = ", ".join(it.get("doc_types", ["Unknown"]))
         flags = ", ".join(it.get("flags", []))
-        
+        published = format_published_et(cfg, it.get("published_utc"))
+
+        lines.append(f"## {court} — {title}")
+        lines.append(f"- Date: {published}")
+        lines.append(f"- Link: {link}")
+        if it.get("pdf_link"):
+            lines.append(f"- PDF: {it['pdf_link']}")
+        lines.append(f"- Document type(s): {doc_types}")
+        lines.append(f"- Score: **{score}**  ({flags})")
+        lines.append("")
 
     return "\n".join(lines)
