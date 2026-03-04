@@ -158,8 +158,10 @@ def main() -> int:
     # Save state whenever we see new items
     if any_new:
         save_state(state)
-
+        
+    
     # 2) Create digest only at digest times (or forced)
+    print(f"DEBUG: FORCE_DIGEST={os.getenv('FORCE_DIGEST')}")
     force = os.getenv("FORCE_DIGEST", "").strip() == "1"
     if force or is_digest_time(cfg, now_utc):
         last_digest_utc = state.get("last_digest_utc")
