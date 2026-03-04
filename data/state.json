@@ -290,6 +290,28 @@
       "special_hits": [],
       "title": "E. Rylka &amp; C. Rylka v. ZHB of Hamilton Twp. &amp; Hamilton Twp. - 1243 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1254CD24_3-4-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\mo\ufffd8\u0012\ufffd \ufffdA \ufffdE\ufffd\u0013)R/\ufffdE\ufffd8u\ufffd\ufffd\ufffdq\ufffd\ufffd[\u0014\ufffd\ufffd\ufffdM\ufffd\u0107\ufffd\ufffd\ufffdN\ufffd\ufffd\ufffd\ufffd\u0019\ufffd\ufffdlK\ufffdnJ\ufffd) W\u0012)>3\ufffd3CrH\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\"\ufffd\ufffd\u0014~\ufffdB\u0004\ufffdr\u007f\ufffd\ufffd/\ufffdd\u007f\ufffd;\ufffd",
+      "first_seen_utc": "2026-03-04T13:54:40+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1254CD24_3-4-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-04T13:54:40+00:00",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Protect PT &amp; P.R. Wendell v. Twp. of Penn &amp; Bd. of Commissioners of the Twp. of Penn v. EQT Artemis Production, LLC - 1254 C.D. 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1260CD24_2-6-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -979,6 +1001,29 @@
       "score": 70,
       "special_hits": [],
       "title": "Penske Truck Leasing Co., L.P., et al. v. The ZHB of Cumru Twp., et al. ~ Appeal of: Route 10 Realty, LLC - 791 C.D. 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/851CD25_3-4-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/MediaBox[0 0 612 792]/Parent 108 0 R/Resources< >/Font< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Tabs/S/Type/Page>> endobj 2 0 obj < >stream x\ufffd\ufffd \ufffdn\ufffdF\ufffd\u0740\ufffdA\ufffdd\u0011s97^\u0016\ufffd\ufffd\ufffdh\ufffd-",
+      "first_seen_utc": "2026-03-04T13:54:40+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/851CD25_3-4-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-04T13:54:40+00:00",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "County of Lancaster, PA v. AFSCME District Council 89 - 851 C.D. 2025"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/855CD24_2-5-26.pdf": {
       "court": "Commonwealth Court",
@@ -4831,6 +4876,13 @@
       "published_utc": "2026-01-27T05:00:00+00:00",
       "title": "E. Rylka &amp; C. Rylka v. ZHB of Hamilton Twp. &amp; Hamilton Twp. - 1243 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1254CD24_3-4-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-03-04T13:54:40+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1254CD24_3-4-26.pdf",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "title": "Protect PT &amp; P.R. Wendell v. Twp. of Penn &amp; Bd. of Commissioners of the Twp. of Penn v. EQT Artemis Production, LLC - 1254 C.D. 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1260CD24_2-6-26.pdf": {
       "court": "Commonwealth Court",
       "first_seen_utc": "2026-03-03T18:44:27+00:00",
@@ -5047,6 +5099,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/791CD24_2-2-26.pdf",
       "published_utc": "2026-02-02T05:00:00+00:00",
       "title": "Penske Truck Leasing Co., L.P., et al. v. The ZHB of Cumru Twp., et al. ~ Appeal of: Route 10 Realty, LLC - 791 C.D. 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/851CD25_3-4-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-03-04T13:54:40+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/851CD25_3-4-26.pdf",
+      "published_utc": "2026-03-04T05:00:00+00:00",
+      "title": "County of Lancaster, PA v. AFSCME District Council 89 - 851 C.D. 2025"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/855CD24_2-5-26.pdf": {
       "court": "Commonwealth Court",
