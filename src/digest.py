@@ -3,6 +3,12 @@ from __future__ import annotations
 from datetime import datetime, timezone
 import pytz
 
+def format_published_et(cfg, published_utc_iso: str | None) -> str:
+    if not published_utc_iso:
+        return "Unknown"
+    tz = pytz.timezone(cfg["timezone"])
+    dt = datetime.fromisoformat(str(published_utc_iso).replace("Z", "+00:00")).astimezone(tz)
+    return dt.strftime("%Y-%m-%d")
 
 def is_digest_time(cfg, now_utc: datetime) -> bool:
     tz = pytz.timezone(cfg["timezone"])
@@ -52,23 +58,13 @@ def build_digest_md(cfg, window_label: str, items) -> str:
 
     for it in items:
         title = it.get("title", "")
+        published = format_published_et(cfg, it.get("published_utc"))
+        lines.append(f"- Date: {published}")
         link = it.get("link", "")
         court = it.get("court", "")
         score = it.get("score", 0)
         doc_types = ", ".join(it.get("doc_types", ["Unknown"]))
         flags = ", ".join(it.get("flags", []))
-        excerpt = (it.get("excerpt") or "").strip().replace("\n", " ")
-        if len(excerpt) > 260:
-            excerpt = excerpt[:257] + "..."
-
-        lines.append(f"## {court} — {title}")
-        lines.append(f"- Link: {link}")
-        if it.get("pdf_link"):
-            lines.append(f"- PDF: {it['pdf_link']}")
-        lines.append(f"- Document type(s): {doc_types}")
-        lines.append(f"- Score: **{score}**  ({flags})")
-        if excerpt:
-            lines.append(f"- Summary/snippet: {excerpt}")
-        lines.append("")
+        
 
     return "\n".join(lines)
