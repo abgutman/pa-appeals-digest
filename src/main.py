@@ -159,14 +159,16 @@ def main() -> int:
         save_state(state)
         
     
-    # 2) Create digest only at digest times (or forced)
-    print(f"DEBUG: FORCE_DIGEST={os.getenv('FORCE_DIGEST')}")
-    slot_id, slot_label = current_digest_slot(cfg, now_utc)
+    # 2) Create digest only once per slot window (or when forced for manual tests)
+    force = os.getenv("FORCE_DIGEST", "").strip() == "1"
+
+    slot_id, slot_label = current_digest_slot(cfg, now_utc)  # (None, None) if not in window/weekend
     last_slot = state.get("last_digest_slot")
 
-    print(f"DEBUG: slot_id={slot_id} last_digest_slot={last_slot}")
+    print(f"DEBUG: FORCE_DIGEST={force} slot_id={slot_id} last_digest_slot={last_slot}")
 
-    if slot_id and slot_id != last_slot:
+    should_digest = force or (slot_id and slot_id != last_slot)
+    if should_digest:
         last_digest_utc = state.get("last_digest_utc")
         window_label = format_window(cfg, last_digest_utc, now_utc)
 
@@ -184,20 +186,24 @@ def main() -> int:
             digest_items.append(rec)
 
         digest_items.sort(key=lambda r: int(r.get("score", 0)), reverse=True)
-
         md = build_digest_md(cfg, window_label, digest_items)
 
         # print to logs
         print(md)
 
-        # write artifact
+        # write artifact (even if empty, so you get a "notification" that it ran)
         OUT_DIR.mkdir(parents=True, exist_ok=True)
         ts = now_utc.strftime("%Y-%m-%d_%H%MUTC")
         out_path = OUT_DIR / f"digest_{ts}.md"
         out_path.write_text(md, encoding="utf-8")
 
-        # update last digest
+        # update last digest timestamps
         state["last_digest_utc"] = now_utc.isoformat()
+
+        # only update the slot marker when we actually used a slot (not forced)
+        if not force and slot_id:
+            state["last_digest_slot"] = slot_id
+
         save_state(state)
 
     return 0
