@@ -13,8 +13,7 @@ from src.feeds import fetch_feed, FeedItem
 from src.fetch import fetch_html, extract_text_from_html, find_pdf_links, download_pdf
 from src.pdf_text import extract_pdf_text
 from src.scoring import score_item
-from src.digest import is_digest_time, build_digest_md, format_window
-
+from src.digest import current_digest_slot, build_digest_md, format_window
 OUT_DIR = Path("out")
 
 
@@ -162,8 +161,12 @@ def main() -> int:
     
     # 2) Create digest only at digest times (or forced)
     print(f"DEBUG: FORCE_DIGEST={os.getenv('FORCE_DIGEST')}")
-    force = os.getenv("FORCE_DIGEST", "").strip() == "1"
-    if force or is_digest_time(cfg, now_utc):
+    slot_id, slot_label = current_digest_slot(cfg, now_utc)
+    last_slot = state.get("last_digest_slot")
+
+    print(f"DEBUG: slot_id={slot_id} last_digest_slot={last_slot}")
+
+    if slot_id and slot_id != last_slot:
         last_digest_utc = state.get("last_digest_utc")
         window_label = format_window(cfg, last_digest_utc, now_utc)
 
