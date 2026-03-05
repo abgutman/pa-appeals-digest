@@ -1,6 +1,6 @@
 {
-  "last_digest_slot": null,
-  "last_digest_utc": "2026-03-05T14:58:14+00:00",
+  "last_digest_slot": "2026-03-05-PM",
+  "last_digest_utc": "2026-03-05T19:21:07+00:00",
   "processed": {
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1020CD24ORD_2-3-26.pdf": {
       "court": "Commonwealth Court",
