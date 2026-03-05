@@ -1,33 +1,33 @@
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import datetime
 import pytz
 
 
-def is_digest_time(cfg, now_utc: datetime) -> bool:
+def current_digest_slot(cfg, now_utc: datetime):
+    """
+    Returns (slot_id, slot_label) or (None, None) if we should not send a digest now.
+    slot_id example: "2026-03-05-AM"
+    """
     tz = pytz.timezone(cfg["timezone"])
     local = now_utc.astimezone(tz)
 
-    # Do not send digests on weekends (Sat=5, Sun=6)
+    # skip weekends
     if local.weekday() >= 5:
-        return False
+        return None, None
 
-    targets = set(cfg.get("digest_times_local", []))  # e.g. ["09:00", "14:00"]
+    hour = local.hour
+    date_str = local.strftime("%Y-%m-%d")
 
-    # exact match
-    hhmm = local.strftime("%H:%M")
-    if hhmm in targets:
-        return True
+    # Wide windows so GitHub scheduling jitter doesn't matter
+    # AM window ~ around 9am
+    if 8 <= hour <= 11:
+        return f"{date_str}-AM", f"{date_str} AM digest"
+    # PM window ~ around 2pm
+    if 13 <= hour <= 16:
+        return f"{date_str}-PM", f"{date_str} PM digest"
 
-    # grace window: allow 0–9 minutes after an on-the-hour target (09:00–09:09, 14:00–14:09)
-    hour = local.strftime("%H")
-    minute = int(local.strftime("%M"))
-    for t in targets:
-        th, tm = t.split(":")
-        if int(tm) == 0 and hour == th and 0 <= minute <= 9:
-            return True
-
-    return False
+    return None, None
 
 
 def format_window(cfg, start_utc_iso, end_utc: datetime) -> str:
@@ -36,7 +36,7 @@ def format_window(cfg, start_utc_iso, end_utc: datetime) -> str:
 
     if start_utc_iso:
         start_utc_iso_norm = str(start_utc_iso).replace("Z", "+00:00")
-        start_utc = datetime.fromisoformat(start_utc_iso_norm).astimezone(timezone.utc)
+        start_utc = datetime.fromisoformat(start_utc_iso_norm)
         start_local = start_utc.astimezone(tz)
         return f"{start_local:%Y-%m-%d %H:%M} ET → {end_local:%Y-%m-%d %H:%M} ET"
 
