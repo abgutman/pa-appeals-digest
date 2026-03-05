@@ -67,6 +67,65 @@ def build_digest_md(cfg, window_label: str, items) -> str:
         lines.append("_No matched items in this window._")
         return "\n".join(lines)
 
+    # Group by court
+    court_order = [
+        "Pennsylvania Supreme Court",
+        "Superior Court",
+        "Commonwealth Court",
+        "Disciplinary Board",
+    ]
+
+    grouped = {}
+    for it in items:
+        grouped.setdefault(it.get("court", "Unknown Court"), []).append(it)
+
+    # stable ordering of courts
+    def court_sort_key(c):
+        return court_order.index(c) if c in court_order else 999
+
+    for court in sorted(grouped.keys(), key=court_sort_key):
+        court_items = grouped[court]
+        court_items.sort(key=lambda r: int(r.get("score", 0)), reverse=True)
+
+        lines.append(f"# {court}")
+        lines.append("")
+
+        for it in court_items:
+            title = it.get("title", "")
+            link = it.get("link", "")
+            score = it.get("score", 0)
+            doc_types = ", ".join(it.get("doc_types", ["Unknown"]))
+            flags = ", ".join(it.get("flags", []))
+            published = format_published_et(cfg, it.get("published_utc"))
+
+            place_hits = it.get("place_hits", [])
+            special_hits = it.get("special_hits", [])
+            reversal_hits = it.get("reversal_hits", [])
+
+            lines.append(f"## {title}")
+            lines.append(f"- Date: {published}")
+            lines.append(f"- Link: {link}")
+            if it.get("pdf_link"):
+                lines.append(f"- PDF: {it['pdf_link']}")
+            lines.append(f"- Document type(s): {doc_types}")
+            lines.append(f"- Score: **{score}**  ({flags})")
+
+            # Transparency: why it matched
+            if place_hits:
+                lines.append(f"- Matched place terms: {', '.join(place_hits)}")
+            if special_hits:
+                lines.append(f"- Matched special terms: {', '.join(special_hits)}")
+            if reversal_hits:
+                lines.append(f"- Matched reversal/remand terms: {', '.join(reversal_hits)}")
+
+            lines.append("")
+
+    return "\n".join(lines)
+
+    if not items:
+        lines.append("_No matched items in this window._")
+        return "\n".join(lines)
+
     for it in items:
         title = it.get("title", "")
         link = it.get("link", "")
