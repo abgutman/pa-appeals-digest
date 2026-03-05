@@ -3,11 +3,13 @@ from __future__ import annotations
 from datetime import datetime
 import pytz
 
-
 def current_digest_slot(cfg, now_utc: datetime):
     """
-    Returns (slot_id, slot_label) or (None, None) if we should not send a digest now.
-    slot_id example: "2026-03-05-AM"
+    Returns (slot_id, slot_label) or (None, None).
+
+    Slot windows (ET):
+      - AM:  09:00–09:30
+      - PM:  14:00–14:30
     """
     tz = pytz.timezone(cfg["timezone"])
     local = now_utc.astimezone(tz)
@@ -16,15 +18,17 @@ def current_digest_slot(cfg, now_utc: datetime):
     if local.weekday() >= 5:
         return None, None
 
-    hour = local.hour
     date_str = local.strftime("%Y-%m-%d")
+    minutes = local.hour * 60 + local.minute
 
-    # Wide windows so GitHub scheduling jitter doesn't matter
-    # AM window ~ around 9am
-    if 8 <= hour <= 11:
+    am_start = 9 * 60 + 0
+    am_end = 9 * 60 + 30
+    pm_start = 14 * 60 + 0
+    pm_end = 14 * 60 + 30
+
+    if am_start <= minutes <= am_end:
         return f"{date_str}-AM", f"{date_str} AM digest"
-    # PM window ~ around 2pm
-    if 13 <= hour <= 16:
+    if pm_start <= minutes <= pm_end:
         return f"{date_str}-PM", f"{date_str} PM digest"
 
     return None, None
