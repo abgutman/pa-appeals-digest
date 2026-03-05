@@ -735,6 +735,28 @@
       "special_hits": [],
       "title": "J. Powell &amp; J. Okal v. Luzerne County TCB ~ Appeal of: J. Powell - 347 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/378CD24_3-5-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\mO 9\u0012\ufffd\ufffd\ufffd\u007f\ufffdO\ufffd\ufffd\u0015\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \b\ufffd! \ufffdp\u001bE\ufffd\ufffda\u0016& :\u0018\ufffd \ufffdU\ufffd\ufffd_U\ufffd\ufffd\u0017\ufffd\ufffd\ufffdl\ufffds\ufffd&x\ufffd\u014f\u02eez\ufffd\\\ufffd\ufffd\ufffd\ufffd\ufffd\\\ufffd\ufffd\ufffd\ufffdE\ufffdg\u0016\ufffdwU\ufffd\u076e\ufffd\ufffd^\ufffd\ufffd\ufffd\ufffd\ufffd\u000e\u03b6\ufffd",
+      "first_seen_utc": "2026-03-05T13:58:54+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/378CD24_3-5-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-05T13:58:54+00:00",
+      "published_utc": "2026-03-05T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Friends of Marconi Plaza v. J. Kenney, et al. - 378 C.D. 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/405MD17_2-2-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -5497,6 +5519,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/347CD24_2-4-26.pdf",
       "published_utc": "2026-02-04T05:00:00+00:00",
       "title": "J. Powell &amp; J. Okal v. Luzerne County TCB ~ Appeal of: J. Powell - 347 C.D. 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/378CD24_3-5-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-03-05T13:58:54+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/378CD24_3-5-26.pdf",
+      "published_utc": "2026-03-05T05:00:00+00:00",
+      "title": "Friends of Marconi Plaza v. J. Kenney, et al. - 378 C.D. 2024"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/405MD17_2-2-26.pdf": {
       "court": "Commonwealth Court",
