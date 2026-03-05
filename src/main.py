@@ -1,4 +1,5 @@
 from __future__ import annotations
+from urllib.parse import urlsplit, urlunsplit, quote
 
 from datetime import datetime, timezone
 from pathlib import Path
@@ -16,6 +17,19 @@ from src.scoring import score_item
 from src.digest import current_digest_slot, build_digest_md, format_window
 OUT_DIR = Path("out")
 
+def normalize_url(url: str) -> str:
+    """
+    Ensure spaces and other unsafe characters are percent-encoded,
+    while preserving query string (e.g., ?cb=1).
+    """
+    if not url:
+        return url
+    parts = urlsplit(url)
+    # Encode the path safely; keep "/" intact
+    safe_path = quote(parts.path, safe="/:")
+    # Also encode the query but keep common separators
+    safe_query = quote(parts.query, safe="=&")
+    return urlunsplit((parts.scheme, parts.netloc, safe_path, safe_query, parts.fragment))
 
 def stable_item_id(item: FeedItem) -> str:
     return (item.guid or item.link or item.title).strip()
@@ -150,7 +164,7 @@ def main() -> int:
                 "place_hits": reasons.get("place_hits", []),
                 "special_hits": reasons.get("special_hits", []),
                 "reversal_hits": reasons.get("reversal_hits", []),
-                "pdf_link": pdf_links[0] if pdf_links else None,
+                "pdf_link": normalize_url(pdf_links[0]) if pdf_links else None,
                 "excerpt": excerpt,
             }
 
