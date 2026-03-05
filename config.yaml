@@ -48,7 +48,7 @@ scoring:
   reversal_points: 25
 
 precedential:
-  supreme_always_precedential: true
+  supreme_always_precedential: false
   indicators:
     - "precedential"
     - "reported"
