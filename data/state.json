@@ -3849,6 +3849,28 @@
       "special_hits": [],
       "title": "Reargument Table"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport030626.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.4 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/Pages 3 0 R /Type/Catalog>> endobj 2 0 obj < > endobj 3 0 obj < > endobj 4 0 obj < > /Parent 3 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Rotate 90 >>...",
+      "first_seen_utc": "2026-03-06T15:32:53+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport030626.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-06T15:32:53+00:00",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Reargument Table"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/111EM2025 - 106700709349276328.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -6152,6 +6174,13 @@
       "first_seen_utc": "2026-03-05T14:58:14+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport022726.pdf",
       "published_utc": "2026-02-27T05:00:00+00:00",
+      "title": "Reargument Table"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport030626.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-06T15:32:53+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport030626.pdf",
+      "published_utc": "2026-03-06T05:00:00+00:00",
       "title": "Reargument Table"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/111EM2025 - 106700709349276328.pdf": {
