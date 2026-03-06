@@ -1,6 +1,6 @@
 {
-  "last_digest_slot": "2026-03-05-PM",
-  "last_digest_utc": "2026-03-05T19:21:07+00:00",
+  "last_digest_slot": "2026-03-06-PM",
+  "last_digest_utc": "2026-03-06T19:30:53+00:00",
   "processed": {
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1020CD24ORD_2-3-26.pdf": {
       "court": "Commonwealth Court",
@@ -4413,6 +4413,28 @@
       "special_hits": [],
       "title": "Rudy, R., Pet. v. Lesniak, R. - No. 219 WAL 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/280MAL2025 - 106703639349591476.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\ufffd\ufffd\u0019\ufffd\u05a2 \ufffd\ufffd\ufffdQ\ufffd\ufffd\ufffd%-\u0018\u07e9\ufffd%\ufffd\u0684\ufffdJ{\u000e\ufffdw\ufffdg\ufffdZ\ufffd\ufffd\ufffdc\ufffd\u0000\ufffd\ufffd\ufffd~B\ufffd\ufffd\u000e\u217ax\ufffd\ufffd\ufffd\u0003\u048a\u0001\ufffd endstream endobj 26 0 obj < > endobj 30 0 obj < > endobj 31 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 36 0 R/Group< >/Tabs/S/Parent 26 0 R>> endobj 32 0 obj < > endobj 33 0 obj < > endobj...",
+      "first_seen_utc": "2026-03-06T19:30:53+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/280MAL2025 - 106703639349591476.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-06T19:30:53+00:00",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Campbell, J., Pet. v. WeCare Organics, LLC - No. 280 MAL 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/293EAL2025 - 106698992349054767.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -4434,6 +4456,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Commonwealth v. Clegg, W., Pet. - No. 293 EAL 2025 (Granted)"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/31MM2026 - 106704061349647738.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd\ufffd%\u0013;\ufffd\ufffd$\ufffdS\ufffdp_h\ufffd\ufffd\ufffdN\ufffdLu\ufffd\ufffd\ufffdw \ufffd7z\ufffdN\ufffd\ufffd\ufffdA\ufffd\ufffd\u0017\ufffdV\ufffd0\u007f\u0000\ufffd\ufffd\u0001\ufffd endstream endobj 50 0 obj < > endobj 54 0 obj < > endobj 55 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 63 0 R/Group< >/Tabs/S/Parent 50 0 R>> endobj 56 0 obj < > endobj 57 0 obj < > endobj...",
+      "first_seen_utc": "2026-03-06T19:30:53+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/31MM2026 - 106704061349647738.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-06T19:30:53+00:00",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Griffey, A., Pet. v. Cumberland Co. CYS, et al. - No. 31 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/341MAL2025 - 106700696349273534.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -4589,6 +4633,28 @@
       "special_hits": [],
       "title": "Commonwealth v. Kent, R., Pet. - No. 483 MAL 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/494MAL2025 - 106703641349591763.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "l\ufffd\ufffd\u0711\ufffd\ufffdl\u0014-\ufffd\u0632\ufffd\ufffd\ufffd-\ufffd$\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffdT\ufffd \ufffd~\ufffd\ufffd x\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd $J}\ufffdl\ufffd \ufffd\u0007\ufffdV\u0000\ufffd endstream endobj 26 0 obj < > endobj 30 0 obj < > endobj 31 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 36 0 R/Group< >/Tabs/S/Parent 26 0 R>> endobj 32 0 obj < > endobj 33 0...",
+      "first_seen_utc": "2026-03-06T19:30:53+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/494MAL2025 - 106703641349591763.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-06T19:30:53+00:00",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "PSP, Pet. v. Gress, C. - No. 494 MAL 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/516MAL2025 - 106690555348132520.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -4632,6 +4698,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Commonwealth v. Boyd, H., Pet. - No. 517 MAL 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/543MAL2025 - 106703643349592262.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "{ \ufffd\ufffd\u072d\ufffdI\ufffdJR\ufffdl\ufffd\ufffd\ufffd\ufffdwj3\ufffd+\ufffd9\ufffd\ufffd\ufffd\ufffd\ufffdj\u0015\u06bf\ufffd\ufffd\u0003\ufffdN\ufffd\ufffd\u0013\ufffd\ufffdw\u0010\ufffd\ufffd\u0173Q7\ufffd \ufffd\ufffd\u0000\ufffd endstream endobj 26 0 obj < > endobj 30 0 obj < > endobj 31 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 36 0 R/Group< >/Tabs/S/Parent 26 0 R>> endobj 32 0 obj < > endobj 33 0 obj < >...",
+      "first_seen_utc": "2026-03-06T19:30:53+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/543MAL2025 - 106703643349592262.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-06T19:30:53+00:00",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth. v. Berry, C., Pet. - No. 543 MAL 2025"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/578MAL2025 - 106690558348133182.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -6662,12 +6750,26 @@
       "published_utc": "2026-03-03T05:00:00+00:00",
       "title": "Rudy, R., Pet. v. Lesniak, R. - No. 219 WAL 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/280MAL2025 - 106703639349591476.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-06T19:30:53+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/280MAL2025 - 106703639349591476.pdf",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "title": "Campbell, J., Pet. v. WeCare Organics, LLC - No. 280 MAL 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/293EAL2025 - 106698992349054767.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-03-05T14:58:14+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/293EAL2025 - 106698992349054767.pdf",
       "published_utc": "2026-03-03T05:00:00+00:00",
       "title": "Commonwealth v. Clegg, W., Pet. - No. 293 EAL 2025 (Granted)"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/31MM2026 - 106704061349647738.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-06T19:30:53+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/31MM2026 - 106704061349647738.pdf",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "title": "Griffey, A., Pet. v. Cumberland Co. CYS, et al. - No. 31 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/341MAL2025 - 106700696349273534.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -6718,6 +6820,13 @@
       "published_utc": "2026-02-24T05:00:00+00:00",
       "title": "Commonwealth v. Kent, R., Pet. - No. 483 MAL 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/494MAL2025 - 106703641349591763.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-06T19:30:53+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/494MAL2025 - 106703641349591763.pdf",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "title": "PSP, Pet. v. Gress, C. - No. 494 MAL 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/516MAL2025 - 106690555348132520.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-03-05T14:58:14+00:00",
@@ -6731,6 +6840,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/517MAL2025 - 106690556348132520.pdf",
       "published_utc": "2026-02-24T05:00:00+00:00",
       "title": "Commonwealth v. Boyd, H., Pet. - No. 517 MAL 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/543MAL2025 - 106703643349592262.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-06T19:30:53+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/543MAL2025 - 106703643349592262.pdf",
+      "published_utc": "2026-03-06T05:00:00+00:00",
+      "title": "Commonwealth. v. Berry, C., Pet. - No. 543 MAL 2025"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/578MAL2025 - 106690558348133182.pdf": {
       "court": "Pennsylvania Supreme Court",
