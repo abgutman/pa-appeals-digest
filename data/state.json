@@ -2789,6 +2789,62 @@
       "special_hits": [],
       "title": "Judgement List"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/031226 E.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1661 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-03-12T17:45:16+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/031226 E.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-03-12T17:45:16+00:00",
+      "published_utc": "2026-03-12T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgment List"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/031226 M.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1401 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-03-12T17:45:16+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/031226 M.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-03-12T17:45:16+00:00",
+      "published_utc": "2026-03-12T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgment List"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/031226 W.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "} \ufffd\u00b9u\u0015\ufffd&\ufffd\u000e\ufffd\ufffd\ufffdbw\ufffd\ufffd\u001b\ufffd\ufffd\u0266/\ufffdz\ufffd\ufffd|q\u001a\ufffd\u06a5&\ufffd\u0125\ufffd\ufffd\ufffd\u007fq8\ufffd\ufffdendstream endobj 24 0 obj (Powered By Crystal) endobj 25 0 obj (Crystal Reports) endobj 26 0 obj <</Creator(Crystal Reports)/Keywords(Non-Precedential)/PoweredBy(Patagames PDF SDK - https://pdfium.patagames.com)/Producer(Powered By Crystal)>> endobj xref 0 27 0000000000 65535 f 0000000017 00000 n 0000000172 00000 n 0",
+      "first_seen_utc": "2026-03-12T17:45:16+00:00",
+      "flags": [
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/031226 W.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-03-12T17:45:16+00:00",
+      "published_utc": "2026-03-12T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 30,
+      "special_hits": [],
+      "title": "Judgment List"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A01009-26m - 106697727348925955.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -9475,6 +9531,27 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/031126 W.pdf",
       "published_utc": "2026-03-11T04:00:00+00:00",
       "title": "Judgement List"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/031226 E.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-12T17:45:16+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/031226 E.pdf",
+      "published_utc": "2026-03-12T04:00:00+00:00",
+      "title": "Judgment List"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/031226 M.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-12T17:45:16+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/031226 M.pdf",
+      "published_utc": "2026-03-12T04:00:00+00:00",
+      "title": "Judgment List"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/031226 W.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-03-12T17:45:16+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/031226 W.pdf",
+      "published_utc": "2026-03-12T04:00:00+00:00",
+      "title": "Judgment List"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A01009-26m - 106697727348925955.pdf": {
       "court": "Superior Court",
