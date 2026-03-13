@@ -2100,6 +2100,28 @@
       "special_hits": [],
       "title": "Reinstatement Granted from Three Year Suspension on Consent with One Year to be Served."
     },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/BERMUDEZ-28DB2026.pdf": {
+      "court": "Disciplinary Board",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]/XObject 8 0 R>>/MediaBox[0 0 612 792]/Group< >/Tabs/S/StructParents 0/Contents[9 0 R 10 0 R 11 0 R 12 0 R 13 0 R]/Parent 14 0 R>> endobj 9 0 obj < >stream q endstream endobj 10 0 obj...",
+      "first_seen_utc": "2026-03-13T14:42:03+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/BERMUDEZ-28DB2026.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-13T14:42:03+00:00",
+      "published_utc": "2026-03-13T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Disbarment on Consent"
+    },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Bernbaum Order.pdf": {
       "court": "Disciplinary Board",
       "doc_types": [
@@ -9436,6 +9458,13 @@
       "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Aston R Order.pdf",
       "published_utc": "2025-10-14T04:00:00+00:00",
       "title": "Reinstatement Granted from Three Year Suspension on Consent with One Year to be Served."
+    },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/BERMUDEZ-28DB2026.pdf": {
+      "court": "Disciplinary Board",
+      "first_seen_utc": "2026-03-13T14:42:03+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/BERMUDEZ-28DB2026.pdf",
+      "published_utc": "2026-03-13T04:00:00+00:00",
+      "title": "Disbarment on Consent"
     },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Bernbaum Order.pdf": {
       "court": "Disciplinary Board",
