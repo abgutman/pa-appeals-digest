@@ -895,6 +895,29 @@
       "special_hits": [],
       "title": "M.A. Dillow v. Lawrence County Board of Elections, et al. - 20 C.D. 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/219MD22_3-17-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 16 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\[S\u001b;\u0012~\ufffd\ufffd\ufffd0\ufffd\ufffd\ufffd\ufffd \ufffd\u6cb5E\u0015\u0010Hr*\u000468'\ufffd\ufffd\ufffd\u0003\u0003d\ufffd`\ufffd1\ufffd\ufffd\ufffdowK\u001a\ufffd\u0019 \ufffd\ufffd- \ufffd...",
+      "first_seen_utc": "2026-03-17T14:51:38+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/219MD22_3-17-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-17T14:51:38+00:00",
+      "published_utc": "2026-03-17T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "M. McFetridge v. AFSCME, Council 13 &amp; PA DOT - 219 M.D. 2022"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/258CD22ORD_1-30-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -938,6 +961,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Golden Mile Associates, et al. v. Com. of PA, DOT, et al. ~ Appeal of: Municipality of Monroeville - 262 C.D. 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/267MD23_3-17-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\mo\ufffd8\u0012\ufffd \ufffdA \ufffdE\ufffd\u0013_$J\ufffdO\ufffdM\ufffdl\ufffd49\ufffd{\ufffda{ \\\ufffdy9$v\ufffd\ufffdv\ufffd\u007f\ufffd3\u0014)\ufffd\u0012\u5db9\ufffd\ufffd\u00006D\ufffd\ufffd\u0310\u000fg\ufffd\ufffd\ufffd\ufffdqx\ufffd\ufffd \ufffd*.\ufffd,*\ufffd[W\"Z\ufffd\u000e\u000f\ufffd\ufffd\u0014\ufffd\u000f\u000f\ufffd9><",
+      "first_seen_utc": "2026-03-17T14:51:38+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/267MD23_3-17-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-17T14:51:38+00:00",
+      "published_utc": "2026-03-17T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "U. Maggitti, Relator v. Hon. M.G. Goch, et al. - 267 M.D. 2023"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/283CD24_2-3-26.pdf": {
       "court": "Commonwealth Court",
@@ -10378,6 +10423,13 @@
       "published_utc": "2026-03-16T04:00:00+00:00",
       "title": "M.A. Dillow v. Lawrence County Board of Elections, et al. - 20 C.D. 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/219MD22_3-17-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-03-17T14:51:38+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/219MD22_3-17-26.pdf",
+      "published_utc": "2026-03-17T04:00:00+00:00",
+      "title": "M. McFetridge v. AFSCME, Council 13 &amp; PA DOT - 219 M.D. 2022"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/258CD22ORD_1-30-26.pdf": {
       "court": "Commonwealth Court",
       "first_seen_utc": "2026-03-05T14:58:14+00:00",
@@ -10391,6 +10443,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/262CD24_3-10-26.pdf",
       "published_utc": "2026-03-10T04:00:00+00:00",
       "title": "Golden Mile Associates, et al. v. Com. of PA, DOT, et al. ~ Appeal of: Municipality of Monroeville - 262 C.D. 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/267MD23_3-17-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-03-17T14:51:38+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/267MD23_3-17-26.pdf",
+      "published_utc": "2026-03-17T04:00:00+00:00",
+      "title": "U. Maggitti, Relator v. Hon. M.G. Goch, et al. - 267 M.D. 2023"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/283CD24_2-3-26.pdf": {
       "court": "Commonwealth Court",
