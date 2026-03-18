@@ -9490,6 +9490,28 @@
       "special_hits": [],
       "title": "Commonwealth v. Williams, R., Pet. - No. 382 EAL 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/385EAL2025 - 106717507351102603.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "]>>stream h\ufffdbb\u0000\u0001&FFES\u0006&\u0006\u0006\ufffd\u0014\u0010\u0278\bL\ufffd\u0002\ufffd\ufffd_X\u0005b\u0003y \ufffd\ufffd?@\ufffd\u0001\u0000V\ufffd\u0005\u0016 endstream endobj5 0 obj < > endobj 6 0 obj < > endobj 7 0 obj < > endobj 8 0 obj < > endobj 9 0 obj < >>> endobj 10 0 obj < >/MediaBox[0 0 612 792]/Parent 6 0 R/Resources<...",
+      "first_seen_utc": "2026-03-18T16:05:42+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/385EAL2025 - 106717507351102603.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-18T16:05:42+00:00",
+      "published_utc": "2026-03-18T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Lane, E., Pet. - No. 385 EAL 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/390MAL2025 - 106707303349982189.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -9577,6 +9599,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Streamline Solutions, et al., Pets. v. Green, S., et al. - No. 400 EAL 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/404EAL2025 - 106717510351103345.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "S \ufffd\u0004\ufffd4\ufffd/\ufffd~\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\u0007\ufdda\ufffd-eup\ufffd\ufffd]F@\ufffdi[\ufffdR\ufffd\ufffd\ufffdw\ufffd\ufffd}\u0003\u0012\u0002\ufffdl\ufffdR\ufffd\ufffd\ufffd\u000e\ufffd\ufffd\ufffd9\u0010\ufffd\ufffd\ufffdF\u1f54\ufffd\ufffd\ufffd\ufffdvE\ufffd\ufffdx\ufffdhy\u03b2h\ufffd\u0017-1n\ufffd\ufffdls \u0013\ufffd\u0002 \ufffd\u0016\ufffd\u0006\ufffd\u0016\u0017\ufffdqu\ufffd5 \ufffd\ufffd\\\ufffd=\ufffd 90\ufffd\ufffdI\ufffd/\ufffd\u015c9C\ufffd1\ufffd\u0424D\ufffd\ufffdp\ufffd` \ufffd\ufffd\ufffd\ufffd\ufffd > endobj 41 0 obj < > endobj 42 0 obj < >/MediaBox[0 0 612 792]/Parent 37 0 R/Resources< >/ProcSet[/PDF/Text]>>/Tabs/S/Type/Page>> endobj 43 0 obj < > endobj 44 0 obj < > endobj 45 0 obj <...",
+      "first_seen_utc": "2026-03-18T16:05:42+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/404EAL2025 - 106717510351103345.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-18T16:05:42+00:00",
+      "published_utc": "2026-03-18T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Hell, T., Pet. - No. 404 EAL 2025"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/407MAL2025 - 106700694349273040.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -14371,6 +14415,13 @@
       "published_utc": "2026-03-17T04:00:00+00:00",
       "title": "Commonwealth v. Williams, R., Pet. - No. 382 EAL 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/385EAL2025 - 106717507351102603.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-18T16:05:42+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/385EAL2025 - 106717507351102603.pdf",
+      "published_utc": "2026-03-18T04:00:00+00:00",
+      "title": "Commonwealth v. Lane, E., Pet. - No. 385 EAL 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/390MAL2025 - 106707303349982189.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-03-10T18:40:46+00:00",
@@ -14398,6 +14449,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/400EAL2025 - 106699548349138787.pdf",
       "published_utc": "2026-03-03T05:00:00+00:00",
       "title": "Streamline Solutions, et al., Pets. v. Green, S., et al. - No. 400 EAL 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/404EAL2025 - 106717510351103345.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-18T16:05:42+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/404EAL2025 - 106717510351103345.pdf",
+      "published_utc": "2026-03-18T04:00:00+00:00",
+      "title": "Commonwealth v. Hell, T., Pet. - No. 404 EAL 2025"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/407MAL2025 - 106700694349273040.pdf": {
       "court": "Pennsylvania Supreme Court",
