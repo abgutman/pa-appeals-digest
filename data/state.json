@@ -651,6 +651,29 @@
       "special_hits": [],
       "title": "K.B. Oberdick v. PPB - 1381 C.D. 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1382CD24_3-25-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\mo\ufffd8\u0012\ufffd \ufffdA \ufffdC\ufffd\u0013_\ufffdV,\u0002\ufffdi\u04a6\u06f4\ufffd\ufffd{\ufffd\ufffd\ufffd>\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdY9I\ufffd?\ufffd\ufffdp\ufffd\ufffdf\ufffd\ufffd,\ufffdb\ufffd (\ufffd\u0001 K\u0014\ufffdgH\ufffd\u001bgF\ufffdkw'f1\ufffd\u0015\\\u0004q\ufffd\ufffd\ufffd\ufffd\u0010A5\ufffd\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd",
+      "first_seen_utc": "2026-03-25T14:19:36+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1382CD24_3-25-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Philadelphia",
+        "Media"
+      ],
+      "processed_utc": "2026-03-25T14:19:36+00:00",
+      "published_utc": "2026-03-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "J. Brown, et al. v. Philadelphia Board of Ethics, &amp; J.S. Creamer, Jr. - 1382 C.D. 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1385CD24_2-2-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -15052,6 +15075,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1381CD25_3-23-26.pdf",
       "published_utc": "2026-03-23T04:00:00+00:00",
       "title": "K.B. Oberdick v. PPB - 1381 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1382CD24_3-25-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-03-25T14:19:36+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1382CD24_3-25-26.pdf",
+      "published_utc": "2026-03-25T04:00:00+00:00",
+      "title": "J. Brown, et al. v. Philadelphia Board of Ethics, &amp; J.S. Creamer, Jr. - 1382 C.D. 2024"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1385CD24_2-2-26.pdf": {
       "court": "Commonwealth Court",
