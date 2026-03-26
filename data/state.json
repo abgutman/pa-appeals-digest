@@ -1,6 +1,6 @@
 {
-  "last_digest_slot": "2026-03-24-AM",
-  "last_digest_utc": "2026-03-24T13:01:16+00:00",
+  "last_digest_slot": "2026-03-26-AM",
+  "last_digest_utc": "2026-03-26T13:03:09+00:00",
   "processed": {
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1020CD24ORD_2-3-26.pdf": {
       "court": "Commonwealth Court",
@@ -15370,6 +15370,200 @@
       "special_hits": [],
       "title": "Commonwealth v. Smith, W., Aplt. - No. 815 CAP"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024cdo - 106726099352034147.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 47 0 R /Type/Catalog/ViewerPreferences 166 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024cdo - 106726099352034147.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co - 106726099352034244.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 51 0 R /Type/Catalog/ViewerPreferences 173 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co - 106726099352034244.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co1 - 106726099352034137.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "uctTreeRoot 97 0 R /Type/Catalog/ViewerPreferences 454 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 16 0 R 19 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj <...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co1 - 106726099352034137.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co2 - 106726099352034233.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 47 0 R /Type/Catalog/ViewerPreferences 163 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co2 - 106726099352034233.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024mo - 106726099352034242.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "R /StructTreeRoot 190 0 R /Type/Catalog/ViewerPreferences 693 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024mo - 106726099352034242.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025cdo - 106726101352033824.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "R /StructTreeRoot 45 0 R /Type/Catalog/ViewerPreferences 170 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025cdo - 106726101352033824.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In the Interest of: G.G.B., Appeal of: J.B. - No. 35 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025co - 106726101352033337.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "0 R /StructTreeRoot 25 0 R /Type/Catalog/ViewerPreferences 92 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025co - 106726101352033337.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In the Interest of: G.G.B., Appeal of: J.B. - No. 35 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025mo - 106726101352032800.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "R /StructTreeRoot 92 0 R /Type/Catalog/ViewerPreferences 407 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 16 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025mo - 106726101352032800.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In the Interest of: G.G.B., Appeal of: J.B. - No. 35 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-78-2025mo - 106726176352041839.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ProcSet[/PDF/Text]>>/Rotate 0/StructParents 1/Tabs/S/Type/Page>> endobj 2 0 obj < >stream H\ufffd\ufffdW]o\ufffd\ufffd\u0012}\ufffd\ufffd\ufffdG\ufffd0i\ue494\ufffd\u07a2@\ufffd&\ufffd \u0010\ufffd\u0002V{ \\?\ufffd\u0016-\ufffdMH5\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0399\ufffd ~\ufffd\ufffd\u00c5\u0001\ufffd\u0012\ufffd\u02dd\ufffd3\u7739\ufffd\\\\\ufffd\ufffdt|\ufffd\ufffd< \ufffd\u000f?\\\ufffd8 \ufffd\ufffd}\ufffdU\ufffdW\ufffd\ufffd\ufffd\ufffd\u007fTwW\ufffd\ufffd\ufffd_\ufffd\ufffdT\ufffd,7\ufffd\ufffd2\ufffd\ufffd\ufffdZ-\ufffdYY\u06fb7\ufffd\ufffd\ufffd\ufffdC\ufffd\ufffd^\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd6\ufffd\ufffd\ufffdf\ufffd\ufffdk\ufffd\ufffd\ufffdN\ufffd\ufffd\ufffd\ufffdO/\ufffd\ufffd\ufffdf\ufffd+\ufffd6\ufffd\u0017\u06a8\ufffd\ufffd\ufffd\u007fE\ufffdTU\ufffd6 /\u0016*\ufffd\ufffd~\ufffd\u0016\ufffd\ufffdT\ufffd\ufffd\ufffdf{q\ufffd\ufffdMR\ufffd\u0016o\ufffd\ufffdn\ufffd\ufffd\"\ufffd\ufffd\ufffd.~P)_}Q:\ufffd\ufffdne\ufffd.V\ufffd\ufffd!w\ufffdswk\ufffd\ufffd\ufffd\ufffdg\ufffd \ufffd\ufffd.L\ufffd\ufffd\\-L\u0015^`\ufffdbC\ufffd\u0729\ufffd&[\ufffd\ufffd\ufffdiR({\ufffd\ufffdn\ufffd,\u0755\ufffd\ufffd\ufffd;\u0017\ufffd\ufffd.\ufffd\ufffd^\ufffd\ufffd\u026e\ufffd\u0004\ufffd %5:\ufffd\u0019\ufffd\ufffdZc\ufffd\u00e7d\ufffd\u0016\ufffdSR\ufffdE\ufffd\ufffd>O\ufffd\ufffd&j\ufffd\u04cd\u07cc\ufffd7\ufffd}\ufffd\ufffdk{\ufffdV\ufffd\u0756\u00029\u0477cb\ufffdi\ufffd\ufffd\u06bdj\ufffd\ufffd\ufffd\ufffd iG\ufffd\ufffdc\ufffd\ufffd\u0018\ufffd=m\u046a\ufffd\ufffdv\ufffd\ufffd}\ufffd^\u00177\ufffdhg\ufffd\ufffd\ufffd\ufffdwO\ufffdv+\ufffd<\ufffd\ufffd\ufffd\ufffd|p\ufffd\ufffd\ufffd'.i\ufffd\u0017\ufffd\ufffdU\ufffd\ufffde\ufffd\ufffd\u0017bsD\ufffd\u0010\ufffdU7\ufffd\ufffd\u0011\ufffd^\u0007\ufffd\ufffd\ufffd#t~\u727e\u040bb2t\ufffd\u00cd\ufffdK]\ufffd\ufffd\ufffd \u010cM\ufffd\ufffdV5H\ufffd\ufffd\u06c6\ufffdA?#\u0017\ufffd\ufffd\u06e9\ufffd\b\ufffd\ufffd\u060f\u0006wZu\ufffdh\ufffd;{\ufffdB\ufffd\u044a\u0006q \ufffd\ufffd\ufffdD@\ufffd \ufffd\ufffd+Z\ufffd\ufffd\ufffd\u0013\ufffd\ufffd\ufffd(\ufffd\u0013\ufffd!%mG\ufffd\ufffd\ufffd \ufffd8\ufffd2\ufffd!Zg ;\ufffda\ufffd\ufffd\u0298 \u001b\ufffd2v\ufffd\ufffdLSQ\ufffdl\ufffd=VlY\u0010@\u01f9\ufffd\ufffd\ufffdD\ufffd]E\ufffdo\"P\ufffd( \ufffd}J W{E\u001b\ufffd\ufffd\ufffd\ufffd56HB\u0004\ufffd\ufffd\ufffdiS\ufffd\u0006_GM\ufffd\ufffde\ufffd^\ufffd\ufffd\u0000$\u0007 n\u0002\ufffd$u\ufffdO\ufffd2\u0006G\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdT8D\ufffd\ufffd\u0001 =\ufffdJ \ufffd\u0017TuX\u0003\u0017\u0007\ufffd\ufffd=\u0011\ufffd<\u0003\ufffdY\u0006@x\ufffdYgu%\u02b3I*j\ufffd\u0007J\ufffd \ufffd\u06f5\ufffd|\ufffd\u0018\ufffdOH\ufffd FH\ufffd\ufffd\ufffd\ufffd~\ufffd\ufffd\u0003\ufffd\ufffd\ufffd\u001b\u0163 GD\u0002T3\u0007\ufffd3\ufffd\u001a\ufffd\ufffd}\u0000|+\ufffd\u0000z\u0011\ufffdWt\ufffd(F\ufffd]\ufffd|\u00005`\u0015:\u0000\ufffdB\u000f\ufffdv>h\u000e\u0011\ufffd\ufffd} \u001b\ufffdF\ufffd \ufffd\" x\ufffd\ufffd 9\ufffd\ufffd\ufffd\u0014 \u02b3B\u0013 \ufffd\u0016Wy\ufffd\ufffdF\ufffd\ufffd\ufffdL\ufffd\ufffdT\ufffd\"...",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-78-2025mo - 106726176352041839.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-03-26T13:03:09+00:00",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Commonwealth v. Belgrave, J., Aplt. - No. 31 WAP 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/May2026ArgumentList.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -20489,6 +20683,69 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-54-2025mo - 106694238348549908.pdf",
       "published_utc": "2026-02-26T05:00:00+00:00",
       "title": "Commonwealth v. Smith, W., Aplt. - No. 815 CAP"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024cdo - 106726099352034147.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024cdo - 106726099352034147.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co - 106726099352034244.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co - 106726099352034244.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co1 - 106726099352034137.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co1 - 106726099352034137.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co2 - 106726099352034233.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024co2 - 106726099352034233.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024mo - 106726099352034242.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-60-2024mo - 106726099352034242.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "Commonwealth v. Lee, D., Aplt. - No. 3 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025cdo - 106726101352033824.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025cdo - 106726101352033824.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "In the Interest of: G.G.B., Appeal of: J.B. - No. 35 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025co - 106726101352033337.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025co - 106726101352033337.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "In the Interest of: G.G.B., Appeal of: J.B. - No. 35 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025mo - 106726101352032800.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-76-2025mo - 106726101352032800.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "In the Interest of: G.G.B., Appeal of: J.B. - No. 35 WAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-78-2025mo - 106726176352041839.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-03-26T13:03:09+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-78-2025mo - 106726176352041839.pdf",
+      "published_utc": "2026-03-26T04:00:00+00:00",
+      "title": "Commonwealth v. Belgrave, J., Aplt. - No. 31 WAP 2024"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/May2026ArgumentList.pdf": {
       "court": "Pennsylvania Supreme Court",
