@@ -13420,6 +13420,24 @@
       "special_hits": [],
       "title": "Reargument Table"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport040226.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.4 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/Pages 3 0 R /Type/Catalog>> endobj 2 0 obj < > endobj 3 0 obj < > endobj 4 0 obj < > /Contents 5 0 R >> endobj 5 0 obj < > stream x\ufffd\ufffd]K\ufffd$\ufffd\u0011\ufffd\ufffd.03X< ^\ufffd\u0003v\u001a\ufffd\ufffd\ufffd0E\ufffd \ufffd\u0352/\ufffd/X+\ufffd\ufffd\ufffd\ufffd \ufffd%\ufffd\ufffd\ufffd_rDdVeVWfwoot\ufffd\ufffd\u063d\ufffdTu\ufffdW\u0011\ufffd\ufffd}\u0011\ufffd\ufffd\ufffdq%\u0006\ufffdV\u0002\ufffd\ufffd...",
+      "first_seen_utc": "2026-04-02T18:50:41+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport040226.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-04-02T18:50:41+00:00",
+      "published_utc": "2026-04-02T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Reargument Table"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/101WM2025 - 106732035352728025.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -24170,6 +24188,13 @@
       "first_seen_utc": "2026-03-27T14:09:16+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport032726.pdf",
       "published_utc": "2026-03-27T04:00:00+00:00",
+      "title": "Reargument Table"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport040226.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-02T18:50:41+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport040226.pdf",
+      "published_utc": "2026-04-02T04:00:00+00:00",
       "title": "Reargument Table"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/101WM2025 - 106732035352728025.pdf": {
