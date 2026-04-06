@@ -6693,6 +6693,29 @@
       "special_hits": [],
       "title": "Com. v. Gibbons, I.\nNo. 1940 EDA 2023"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A18008-25m - 106738648353454519.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-04-06T20:33:45+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A18008-25m - 106738648353454519.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-06T20:33:45+00:00",
+      "published_utc": "2026-04-06T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Luperi, M.\nNo. 1066 EDA 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A18018-25o - 106728968352373907.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -22808,6 +22831,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A17039-24o - 106722480351648205.pdf",
       "published_utc": "2026-03-23T04:00:00+00:00",
       "title": "Com. v. Gibbons, I.\nNo. 1940 EDA 2023"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A18008-25m - 106738648353454519.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-06T20:33:45+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A18008-25m - 106738648353454519.pdf",
+      "published_utc": "2026-04-06T04:00:00+00:00",
+      "title": "Com. v. Luperi, M.\nNo. 1066 EDA 2024"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A18018-25o - 106728968352373907.pdf": {
       "court": "Superior Court",
