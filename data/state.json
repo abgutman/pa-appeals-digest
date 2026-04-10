@@ -4809,6 +4809,28 @@
       "special_hits": [],
       "title": "Probation Violation \u2013 Terms of Probation Modified"
     },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Johnson Rein Order.pdf": {
+      "court": "Disciplinary Board",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]/XObject 8 0 R>>/MediaBox[0 0 612 792]/Group< >/Tabs/S/StructParents 0/Contents[9 0 R 10 0 R 11 0 R 12 0 R 13 0 R]/Parent 14 0 R>> endobj 9 0 obj < >stream q endstream endobj 10 0 obj...",
+      "first_seen_utc": "2026-04-10T15:45:11+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Johnson Rein Order.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-10T15:45:11+00:00",
+      "published_utc": "2026-04-10T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Reinstatement from six month suspension"
+    },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Klayman Order-3DB2026.pdf": {
       "court": "Disciplinary Board",
       "doc_types": [
@@ -4830,6 +4852,28 @@
       "score": 70,
       "special_hits": [],
       "title": "18 Month Suspension Reciprocal with DC Court of Appeals"
+    },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Kulp Order.pdf": {
+      "court": "Disciplinary Board",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]/XObject 9 0 R>>/MediaBox[0 0 612 792]/Group< >/Tabs/S/StructParents 0/Contents[10 0 R 11 0 R 12 0 R 13 0 R 14 0 R]/Parent 15 0 R>> endobj 10 0 obj < >stream q endstream endobj 11 0 obj...",
+      "first_seen_utc": "2026-04-10T15:45:11+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Kulp Order.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-10T15:45:11+00:00",
+      "published_utc": "2026-04-10T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Temporary Suspension - Rule 208(f)(5)"
     },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Levenson Order.pdf": {
       "court": "Disciplinary Board",
@@ -25392,12 +25436,26 @@
       "published_utc": "2025-09-12T04:00:00+00:00",
       "title": "Probation Violation \u2013 Terms of Probation Modified"
     },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Johnson Rein Order.pdf": {
+      "court": "Disciplinary Board",
+      "first_seen_utc": "2026-04-10T15:45:11+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Johnson Rein Order.pdf",
+      "published_utc": "2026-04-10T04:00:00+00:00",
+      "title": "Reinstatement from six month suspension"
+    },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Klayman Order-3DB2026.pdf": {
       "court": "Disciplinary Board",
       "first_seen_utc": "2026-03-24T17:52:28+00:00",
       "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Klayman Order-3DB2026.pdf",
       "published_utc": "2026-03-24T04:00:00+00:00",
       "title": "18 Month Suspension Reciprocal with DC Court of Appeals"
+    },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Kulp Order.pdf": {
+      "court": "Disciplinary Board",
+      "first_seen_utc": "2026-04-10T15:45:11+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Kulp Order.pdf",
+      "published_utc": "2026-04-10T04:00:00+00:00",
+      "title": "Temporary Suspension - Rule 208(f)(5)"
     },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Levenson Order.pdf": {
       "court": "Disciplinary Board",
