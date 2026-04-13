@@ -558,6 +558,28 @@
       "special_hits": [],
       "title": "P. Sadowski v. UCBR - 1260 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1262CD24_4-13-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 16 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\\ufffdo\ufffd6\u0013\ufffd \ufffd\ufffd>JC\ufffdG|\u0013\ufffda\b\u0010\ufffdI\ufffd\ufffdI\ufffd$^\ufffday>x\ufffd\ufffd\u0014O\ufffdN\ufffdb\ufffd\ufffd\ufffd\ufffd#%Y\ufffd\ufffd\u0016\ufffd\ufffd\u0001Z(\ufffd\ufffd\ufffd\ufffd\ufffd y\ufffd\u075d\"/\ufffd?\ufffdxR$%\ufffd_\u001b\ufffd,f\ufffd;\ufffd~J\ufffd;\ufffd\ufffd\ufffd\ufffd\u007f\ufffd",
+      "first_seen_utc": "2026-04-13T15:12:29+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1262CD24_4-13-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-13T15:12:29+00:00",
+      "published_utc": "2026-04-13T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "J.A. Wilkins v. PPB - 1262 C.D. 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1279CD24_2-13-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -2007,6 +2029,50 @@
       "special_hits": [],
       "title": "S. Hardnock v. UCBR - 1729 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1734CD24_4-13-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 9 0 R 17 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\\ufffdr\u06f6\u0012\ufffd\ufffd\u0019\ufffd\u0003\u007f\ufffd\ufffd\b%.\ufffd\ufffd\ufffd\u024c\ufffd\ufffdi\ufffd\\|...",
+      "first_seen_utc": "2026-04-13T15:12:29+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1734CD24_4-13-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-13T15:12:29+00:00",
+      "published_utc": "2026-04-13T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In re: Appeal of J. Glover ~ Appeal of: J. Glover - 1734 C.D. 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1735CD24_4-13-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R 17 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\\ufffdr\u06f6\u0016}\ufffd\ufffd\ufffd\ufffd\ufffdT'B\ufffd+\ufffdL&3\ufffdri2I\ufffd\u0013\ufffd\ufffdd\ufffd\ufffd...",
+      "first_seen_utc": "2026-04-13T15:12:29+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1735CD24_4-13-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-13T15:12:29+00:00",
+      "published_utc": "2026-04-13T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In re: Appeal of J. Glover ~ Appeal of: J. Glover - 1735 C.D. 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1741CD24_4-6-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -2808,6 +2874,28 @@
       "score": 70,
       "special_hits": [],
       "title": "K. George v. Com. of PA, DOC, et al. - 409 M.D. 2021"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/440MD24_4-13-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\[o\ufffdH\u0016~\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdu]l\ufffd\ufffd \b A\u0013\ufffdBfG+\ufffd\u0007\ufffdq'\ufffdIwg\ufffd; \ufffd\ufffd\ufffds\ufffdb\ufffd]\ufffdj2\ufffd4H \ufffd\ufffd\ufffdU\u0579_\ufffd?\u000e\u000f2\ufffd\u1fca\ufffd$K \ufffd]V\"Y7\ufffd\u0007\ufffd\ufffd\ufffd,\u000f\u000f^\ufffd \ufffd\ufffd5",
+      "first_seen_utc": "2026-04-13T15:12:29+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/440MD24_4-13-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-13T15:12:29+00:00",
+      "published_utc": "2026-04-13T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "PA DOC v. D. Hill - 440 M.D. 2024"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/443CD24_2-5-26.pdf": {
       "court": "Commonwealth Court",
@@ -24715,6 +24803,13 @@
       "published_utc": "2026-02-06T05:00:00+00:00",
       "title": "P. Sadowski v. UCBR - 1260 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1262CD24_4-13-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-04-13T15:12:29+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1262CD24_4-13-26.pdf",
+      "published_utc": "2026-04-13T04:00:00+00:00",
+      "title": "J.A. Wilkins v. PPB - 1262 C.D. 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1279CD24_2-13-26.pdf": {
       "court": "Commonwealth Court",
       "first_seen_utc": "2026-03-05T14:58:14+00:00",
@@ -25170,6 +25265,20 @@
       "published_utc": "2026-04-08T04:00:00+00:00",
       "title": "S. Hardnock v. UCBR - 1729 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1734CD24_4-13-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-04-13T15:12:29+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1734CD24_4-13-26.pdf",
+      "published_utc": "2026-04-13T04:00:00+00:00",
+      "title": "In re: Appeal of J. Glover ~ Appeal of: J. Glover - 1734 C.D. 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/1735CD24_4-13-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-04-13T15:12:29+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1735CD24_4-13-26.pdf",
+      "published_utc": "2026-04-13T04:00:00+00:00",
+      "title": "In re: Appeal of J. Glover ~ Appeal of: J. Glover - 1735 C.D. 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1741CD24_4-6-26.pdf": {
       "court": "Commonwealth Court",
       "first_seen_utc": "2026-04-06T15:41:18+00:00",
@@ -25421,6 +25530,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/409MD21_3-16-26.pdf",
       "published_utc": "2026-03-16T04:00:00+00:00",
       "title": "K. George v. Com. of PA, DOC, et al. - 409 M.D. 2021"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/440MD24_4-13-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-04-13T15:12:29+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/440MD24_4-13-26.pdf",
+      "published_utc": "2026-04-13T04:00:00+00:00",
+      "title": "PA DOC v. D. Hill - 440 M.D. 2024"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/443CD24_2-5-26.pdf": {
       "court": "Commonwealth Court",
