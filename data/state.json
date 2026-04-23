@@ -7965,6 +7965,62 @@
       "special_hits": [],
       "title": "Judgment Lists"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/042326 E.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 2049 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/042326 E.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-04-23T20:46:19+00:00",
+      "published_utc": "2026-04-23T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgment Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/042326 M.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "S\ufffd\ufffd;&\ufffd\ufffdp\ufffd\ufffdl\ufffd\u0007] \ufffd\ufffdc\ufffd\u03c8)\ufffdE\ufffd\ufffd^T\ufffd\ufffd\ufffd\u0003Ot\ufffd\ufffd\u0001\ufffd\u000fxX\ufffd\u0001endstream endobj 24 0 obj (Powered By Crystal) endobj 25 0 obj (Crystal Reports) endobj 26 0 obj <</Creator(Crystal Reports)/Keywords(Non-Precedential)/PoweredBy(Patagames PDF SDK - https://pdfium.patagames.com)/Producer(Powered By Crystal)>> endobj xref 0 27 0000000000 65535 f 0000000017 00000 n 0000000172 00000 n 0",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "flags": [
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/042326 M.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-04-23T20:46:19+00:00",
+      "published_utc": "2026-04-23T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 30,
+      "special_hits": [],
+      "title": "Judgment Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/042326 W.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1504 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/042326 W.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-04-23T20:46:19+00:00",
+      "published_utc": "2026-04-23T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgment Lists"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/2201EDA2025jo - 106712735350608739.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -11631,6 +11687,29 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Riggle, S.\nNo. 579 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A30002-25o - 106760166355874469.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 28 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 29 0...",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A30002-25o - 106760166355874469.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-23T20:46:19+00:00",
+      "published_utc": "2026-04-23T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Sawyer, S. v. Anusionwu, D.\nNo. 1076 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A30004-25jo - 106702603349503935.pdf": {
       "court": "Superior Court",
@@ -20174,6 +20253,29 @@
       ],
       "processed_utc": "2026-04-17T19:55:50+00:00",
       "published_utc": "2026-04-17T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Potoczny, J.\nNo. 1300 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S47034-25o - 106760110355867338.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 28 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 29 0...",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S47034-25o - 106760110355867338.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-23T20:46:19+00:00",
+      "published_utc": "2026-04-23T04:00:00+00:00",
       "reversal_hits": [],
       "score": 100,
       "special_hits": [],
@@ -33232,6 +33334,27 @@
       "published_utc": "2026-04-22T04:00:00+00:00",
       "title": "Judgment Lists"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/042326 E.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/042326 E.pdf",
+      "published_utc": "2026-04-23T04:00:00+00:00",
+      "title": "Judgment Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/042326 M.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/042326 M.pdf",
+      "published_utc": "2026-04-23T04:00:00+00:00",
+      "title": "Judgment Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/042326 W.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/042326 W.pdf",
+      "published_utc": "2026-04-23T04:00:00+00:00",
+      "title": "Judgment Lists"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/2201EDA2025jo - 106712735350608739.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-03-13T20:29:02+00:00",
@@ -34379,6 +34502,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A29045-25m - 106715716350908858.pdf",
       "published_utc": "2026-03-17T04:00:00+00:00",
       "title": "Com. v. Riggle, S.\nNo. 579 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A30002-25o - 106760166355874469.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A30002-25o - 106760166355874469.pdf",
+      "published_utc": "2026-04-23T04:00:00+00:00",
+      "title": "Sawyer, S. v. Anusionwu, D.\nNo. 1076 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A30004-25jo - 106702603349503935.pdf": {
       "court": "Superior Court",
@@ -37052,6 +37182,13 @@
       "first_seen_utc": "2026-04-17T19:55:50+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S47034-25m - 106753056355098136.pdf",
       "published_utc": "2026-04-17T04:00:00+00:00",
+      "title": "Com. v. Potoczny, J.\nNo. 1300 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S47034-25o - 106760110355867338.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-23T20:46:19+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S47034-25o - 106760110355867338.pdf",
+      "published_utc": "2026-04-23T04:00:00+00:00",
       "title": "Com. v. Potoczny, J.\nNo. 1300 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S47036-25m - 106744263354154020.pdf": {
