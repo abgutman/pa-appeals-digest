@@ -1,6 +1,6 @@
 {
-  "last_digest_slot": "2026-04-23-AM",
-  "last_digest_utc": "2026-04-23T13:16:00+00:00",
+  "last_digest_slot": "2026-04-24-AM",
+  "last_digest_utc": "2026-04-24T13:12:14+00:00",
   "processed": {
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1020CD24ORD_2-3-26.pdf": {
       "court": "Commonwealth Court",
@@ -20628,6 +20628,28 @@
       "special_hits": [],
       "title": "Reargument Table"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport042426.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "43 0 R /Pages 2 0 R /StructTreeRoot 16 0 R /Type/Catalog/ViewerPreferences 344 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 792 612] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj <...",
+      "first_seen_utc": "2026-04-24T13:12:14+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport042426.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-24T13:12:14+00:00",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Reargument Table"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/101WM2025 - 106732035352728025.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -37301,6 +37323,13 @@
       "first_seen_utc": "2026-04-17T15:55:50+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport041726.pdf",
       "published_utc": "2026-04-17T04:00:00+00:00",
+      "title": "Reargument Table"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport042426.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-24T13:12:14+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport042426.pdf",
+      "published_utc": "2026-04-24T04:00:00+00:00",
       "title": "Reargument Table"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/101WM2025 - 106732035352728025.pdf": {
