@@ -3520,6 +3520,28 @@
       "special_hits": [],
       "title": "County of Chester v. D. Houser - 449 C.D. 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/487FR22_4-24-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "R /StructTreeRoot 64 0 R /Type/Catalog/ViewerPreferences 302 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream...",
+      "first_seen_utc": "2026-04-24T15:04:07+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/487FR22_4-24-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-24T15:04:07+00:00",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "East Coast Vapor LLC v. Commonwealth of Pennsylvania - 487 F.R. 2022"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/489CD25_2-25-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -31801,6 +31823,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/449CD25_2-9-26.pdf",
       "published_utc": "2026-02-09T05:00:00+00:00",
       "title": "County of Chester v. D. Houser - 449 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/487FR22_4-24-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-04-24T15:04:07+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/487FR22_4-24-26.pdf",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "title": "East Coast Vapor LLC v. Commonwealth of Pennsylvania - 487 F.R. 2022"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/489CD25_2-25-26.pdf": {
       "court": "Commonwealth Court",
