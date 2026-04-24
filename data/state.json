@@ -5803,6 +5803,24 @@
       "special_hits": [],
       "title": "Temporary Suspension - Rule 214"
     },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Maxwell Order.pdf": {
+      "court": "Disciplinary Board",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.4 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/Font< >/XObject< >>>>> endobj 2 0 obj < > endobj 3 0 obj < > endobj 4 0 obj < > endobj 5 0 obj < > endobj 6 0 obj < > endobj 7 0 obj < >stream...",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Maxwell Order.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-04-24T18:41:41+00:00",
+      "published_utc": "2026-04-01T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Public  Reprimand for violations of Pa.R.P.C. 1.1, 1.3, 1.4, 3.2, and Pa.R.D.E. 203; Client neglect in two matters; Failure to respond to disciplinary counsel; Prior  discipline."
+    },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/McCarthy-159DB2025.pdf": {
       "court": "Disciplinary Board",
       "doc_types": [
@@ -8423,6 +8441,50 @@
       "special_hits": [],
       "title": "Com. v. Phillips, Jr., A.\nNo. 240 MDA 2023"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A02041-26m - 106761072355980206.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 84 0 R /Type/Catalog/ViewerPreferences 432 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02041-26m - 106761072355980206.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-24T18:41:41+00:00",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Watts, J.\nNo. 465 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A02043-26m - 106761105355983800.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "R /StructTreeRoot 42 0 R /Type/Catalog/ViewerPreferences 184 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 16 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream...",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02043-26m - 106761105355983800.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-24T18:41:41+00:00",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Pyle, B.\nNo. 266 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A02045-26m - 106754939355297308.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -9091,6 +9153,50 @@
       "special_hits": [],
       "title": "Karlsen, E. v. Cassell, C.\nNo. 1164 MDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06002-26m - 106761182356005766.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 84 0 R /Type/Catalog/ViewerPreferences 552 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06002-26m - 106761182356005766.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-24T18:41:41+00:00",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In Re: Adoption of J.S.H., II, Appeal of: H.J.\nNo. 665 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06003-26m - 106761175356005033.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 84 0 R /Type/Catalog/ViewerPreferences 552 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06003-26m - 106761175356005033.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-24T18:41:41+00:00",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In Re: Adoption of Z.J.H., Appeal of: J.S.H.\nNo. 631 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A06004-26m - 106756301355439145.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -9497,6 +9603,29 @@
       "special_hits": [],
       "title": "Com. v. Bender-Mathis, S.\nNo. 971 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06031-26m - 106761115355987846.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 80 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd]Yo\u001bG\u0012~\u0017\ufffd\ufffd0\u000f\ufffd@.\ufffd\ufffd\ufffd{f\u0011\b\ufffd8\ufffd&@\ufffd\ufffd\ufffd>\u0018~\u0018\ufffd\ufffdL\ufffd\ufffd\ufffd!e\ufffd\ufffd~\ufffd\ufffd\ufffd\ufffdCr\ufffdYg\ufffd `\ufffds\ufffdut\ufffd\ufffduu\ufffd\ufffdR\ufffd\ufffd_\ufffdMQ\u0016\u0001~\ufffd\ufffd\u0014\ufffd\ufffd",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06031-26m - 106761115355987846.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-24T18:41:41+00:00",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Timitskaya, N. v. Petraglia, J.\nNo. 614 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A06032-26m - 106712113350545464.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -9518,6 +9647,29 @@
       "score": 70,
       "special_hits": [],
       "title": "T.C. v. G.R.C. v. M.N.G.\nNo. 1193 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06038-26m - 106761138355995712.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 136 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd[[o\u001b\ufffd\u0011~7\ufffd\ufffd\ufffd\ufffdR\ufffdey\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdm\u0002\ufffd%-\u0012\ufffd(\ufffd\u90e2\ufffd\ufffdV\ufffd I\ufffd\ufffd_t\ufffdfg\ufffd\ufffd^\ufffd\u02e0q\ufffd\u0013 \ufffd^H\u000e9\ufffd\ufffd7\ufffd\ufffdo\ufffd\u0017\ufffdq\ufffdW Y\ufffd\ufffd\u00af\ufffde\ufffd_^^",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06038-26m - 106761138355995712.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-04-24T18:41:41+00:00",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "In the Interest of: M.L. Appeal of: I.Q.\nNo. 1078 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A06039-26m - 106742831353982637.pdf": {
       "court": "Superior Court",
@@ -32559,6 +32711,13 @@
       "published_utc": "2026-03-24T04:00:00+00:00",
       "title": "Temporary Suspension - Rule 214"
     },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Maxwell Order.pdf": {
+      "court": "Disciplinary Board",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Maxwell Order.pdf",
+      "published_utc": "2026-04-01T04:00:00+00:00",
+      "title": "Public  Reprimand for violations of Pa.R.P.C. 1.1, 1.3, 1.4, 3.2, and Pa.R.D.E. 203; Client neglect in two matters; Failure to respond to disciplinary counsel; Prior  discipline."
+    },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/McCarthy-159DB2025.pdf": {
       "court": "Disciplinary Board",
       "first_seen_utc": "2026-04-17T14:51:31+00:00",
@@ -33525,6 +33684,20 @@
       "published_utc": "2026-04-21T04:00:00+00:00",
       "title": "Com. v. Phillips, Jr., A.\nNo. 240 MDA 2023"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A02041-26m - 106761072355980206.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02041-26m - 106761072355980206.pdf",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "title": "Com. v. Watts, J.\nNo. 465 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A02043-26m - 106761105355983800.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A02043-26m - 106761105355983800.pdf",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "title": "Com. v. Pyle, B.\nNo. 266 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A02045-26m - 106754939355297308.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-04-20T16:03:48+00:00",
@@ -33735,6 +33908,20 @@
       "published_utc": "2026-04-22T04:00:00+00:00",
       "title": "Karlsen, E. v. Cassell, C.\nNo. 1164 MDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06002-26m - 106761182356005766.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06002-26m - 106761182356005766.pdf",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "title": "In Re: Adoption of J.S.H., II, Appeal of: H.J.\nNo. 665 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06003-26m - 106761175356005033.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06003-26m - 106761175356005033.pdf",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "title": "In Re: Adoption of Z.J.H., Appeal of: J.S.H.\nNo. 631 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A06004-26m - 106756301355439145.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-04-21T16:54:57+00:00",
@@ -33861,12 +34048,26 @@
       "published_utc": "2026-03-26T04:00:00+00:00",
       "title": "Com. v. Bender-Mathis, S.\nNo. 971 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06031-26m - 106761115355987846.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06031-26m - 106761115355987846.pdf",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "title": "Timitskaya, N. v. Petraglia, J.\nNo. 614 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A06032-26m - 106712113350545464.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-03-13T19:27:40+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06032-26m - 106712113350545464.pdf",
       "published_utc": "2026-03-13T04:00:00+00:00",
       "title": "T.C. v. G.R.C. v. M.N.G.\nNo. 1193 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06038-26m - 106761138355995712.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-04-24T18:41:41+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06038-26m - 106761138355995712.pdf",
+      "published_utc": "2026-04-24T04:00:00+00:00",
+      "title": "In the Interest of: M.L. Appeal of: I.Q.\nNo. 1078 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A06039-26m - 106742831353982637.pdf": {
       "court": "Superior Court",
