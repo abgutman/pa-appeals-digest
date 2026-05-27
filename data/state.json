@@ -741,6 +741,29 @@
       "special_hits": [],
       "title": "B.J. Moyer v. PPB - 1249 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/124CD25_5-27-28.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/MediaBox[0 0 612 792]/Parent 200 0 R/Resources< >/Font< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/Rotate 0/Tabs/S/Type/Page>> endobj 2 0 obj < >stream x\ufffd\ufffd \ufffdr\ufffd\ufffd\ufffd\ufffd3\ufffd\u0007>\ufffd\u0019\u0013\ufffd.v\ufffd@\u01e3\u0019K\ufffd",
+      "first_seen_utc": "2026-05-27T14:30:53+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/124CD25_5-27-28.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-05-27T14:30:53+00:00",
+      "published_utc": "2026-05-27T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "S.M. Fite v. Bureau of Driver Licensing - 124 C.D. 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1254CD24_3-4-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -43115,6 +43138,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/1249CD24_4-7-26.pdf",
       "published_utc": "2026-04-07T04:00:00+00:00",
       "title": "B.J. Moyer v. PPB - 1249 C.D. 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/124CD25_5-27-28.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-05-27T14:30:53+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/124CD25_5-27-28.pdf",
+      "published_utc": "2026-05-27T04:00:00+00:00",
+      "title": "S.M. Fite v. Bureau of Driver Licensing - 124 C.D. 2025"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1254CD24_3-4-26.pdf": {
       "court": "Commonwealth Court",
