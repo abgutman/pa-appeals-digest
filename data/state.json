@@ -34894,6 +34894,28 @@
       "special_hits": [],
       "title": "Commonwealth v. Bloom, T., Pet. - No. 250 WAL 2025 (Granted)"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/251MAL2026 - 106807312361289342.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\ufffd\ufffd\ufffd\ufffd\ufffdU;\ufffd\u001a\ufffd+\ufffdvjoI|\ufffd6\ufffd\u049e\ufffd\ufffd\ufffd\ufffd\ufffdV\ufffd\ufffd\ufffd8>\u0000\ufffd\ufffd{?\ufffdp\u007f\u0007\ufffdJ]<\u001bu\ufffd\ufffd\u0001\ufffd#\u0002\u000e endstream endobj 34 0 obj < > endobj 38 0 obj < > endobj 39 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 45 0 R/Group< >/Tabs/S/Parent 34 0 R>> endobj 40 0 obj < > endobj 41 0 obj < > endobj 42...",
+      "first_seen_utc": "2026-06-04T19:58:31+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/251MAL2026 - 106807312361289342.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-04T19:58:31+00:00",
+      "published_utc": "2026-06-04T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "L.W. v. C.H., Pet. - No. 251 MAL 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/251WAL2025 - 106732015352726339.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -59026,6 +59048,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/250WAL2025 - 106715995350943750.pdf",
       "published_utc": "2026-03-17T04:00:00+00:00",
       "title": "Commonwealth v. Bloom, T., Pet. - No. 250 WAL 2025 (Granted)"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/251MAL2026 - 106807312361289342.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-06-04T19:58:31+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/251MAL2026 - 106807312361289342.pdf",
+      "published_utc": "2026-06-04T04:00:00+00:00",
+      "title": "L.W. v. C.H., Pet. - No. 251 MAL 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/251WAL2025 - 106732015352726339.pdf": {
       "court": "Pennsylvania Supreme Court",
