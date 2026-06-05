@@ -33958,6 +33958,50 @@
       "special_hits": [],
       "title": "Commonwealth v. Nichols, D., Pet. - No. 196 MM 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/197MAL2026cs - 106809033361509801.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 45 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd]\ufffdn\u001b7\u0016\ufffd\u000f\ufffdw\u0425T\ufffd\ufffd\ufffdwHl`\ufffd\ufffd6\ufffd\u0016\ufffdm\u0017 \ufffd\u0017I/\u0014Y\ufffd\u057a\ufffd+\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd-\ufffd\ufffd\ufffdw\ufffd\ufffd\ufffd:G\ufffdV\ufffd\u0019j\u000eyx\ufffd\ufffd\ufffdR\ufffd\ufffd<\ufffdX\u0007\ufffd9.&\ufffd\ufffd\ufffd\ufffd\u0789\ufffd",
+      "first_seen_utc": "2026-06-05T17:11:34+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/197MAL2026cs - 106809033361509801.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-05T17:11:34+00:00",
+      "published_utc": "2026-06-05T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Wentz, M., Pet. v. Wentz, D. - No. 197 MAL 2026"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/197MAL2026pco - 106809033361509584.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\ufffd\ufffd5\ufffd\ufffdS\ufffdvR\ufffd\ufffd\u0514o\ufffd^\ufffd\ufffdVm\ufffd}\ufffd={\ufffd3\ufffd2\u056dB\ufffd\ufffdq\ufffd\u0007\ufffd\ufffd\ufffdvB\ufffd\ufffd\u000e\u2d7ex6\ufffd\ufffd\ufffd \ufffd1\ufffd\ufffd endstream endobj 26 0 obj < > endobj 30 0 obj < > endobj 31 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 36 0 R/Group< >/Tabs/S/Parent 26 0 R>> endobj 32 0 obj < > endobj 33 0 obj < > endobj...",
+      "first_seen_utc": "2026-06-05T17:11:34+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/197MAL2026pco - 106809033361509584.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-05T17:11:34+00:00",
+      "published_utc": "2026-06-05T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Wentz, M., Pet. v. Wentz, D. - No. 197 MAL 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/197MM2025 - 106724532351848450.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -58859,6 +58903,20 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/196MM2025 - 106725707351988512.pdf",
       "published_utc": "2026-03-25T04:00:00+00:00",
       "title": "Commonwealth v. Nichols, D., Pet. - No. 196 MM 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/197MAL2026cs - 106809033361509801.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-06-05T17:11:34+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/197MAL2026cs - 106809033361509801.pdf",
+      "published_utc": "2026-06-05T04:00:00+00:00",
+      "title": "Wentz, M., Pet. v. Wentz, D. - No. 197 MAL 2026"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/197MAL2026pco - 106809033361509584.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-06-05T17:11:34+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/197MAL2026pco - 106809033361509584.pdf",
+      "published_utc": "2026-06-05T04:00:00+00:00",
+      "title": "Wentz, M., Pet. v. Wentz, D. - No. 197 MAL 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/197MM2025 - 106724532351848450.pdf": {
       "court": "Pennsylvania Supreme Court",
