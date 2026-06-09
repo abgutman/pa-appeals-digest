@@ -11720,6 +11720,60 @@
       "special_hits": [],
       "title": "Judgment Lists"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/060926 E.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1733 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/060926 E.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgment Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/060926 M.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1084 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/060926 M.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgment Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/060926 W.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1580 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/060926 W.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgment Lists"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/2201EDA2025jo - 106712735350608739.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -12525,6 +12579,29 @@
       "score": 100,
       "special_hits": [],
       "title": "Com. v. Muhammid, K.N.\nNo. 295 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A03021-26o - 106812910361925425.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 28 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 29 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A03021-26o - 106812910361925425.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Levin, D. v. Prime Communications Inc.\nNo. 874 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A03023-26m - 106737354353343571.pdf": {
       "court": "Superior Court",
@@ -13394,6 +13471,29 @@
       "special_hits": [],
       "title": "Maldonado, A. v. Wismer, D.\nNo. 1670 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A05004-26o - 106812407361864324.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 28 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 29 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A05004-26o - 106812407361864324.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Carmen Enterprises v. Murpenter, LLC\nNo. 420 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A05007-26m - 106804755360983622.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -14249,6 +14349,29 @@
       "special_hits": [],
       "title": "Plunkett, C. v. Alpha Power Sports\nNo. 844 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06041-26m - 106812540361879501.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 85 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd\\mo\u001b\ufffd \ufffdn\ufffd\ufffda?J\ufffd\ufffd\ufffdy\ufffdm\u000f\u0006b\ufffdi{\ufffd\ufffd\ufffd&E?\\\ufffd\ufffd\ufffdH\ufffdZY\ufffdi\ufffd\ufffd\ufffd?\u053fY\ufffd3\ufffdZ\ufffdPM \ufffd\u0006,\ufffd\ufffd\uc49c\ufffdp rH\ufffdr~V\ufffd\u0015\ufffd5J\u0017U\ufffd\ufffd34\ufffdX",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06041-26m - 106812540361879501.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Crouse, A.\nNo. 1461 WDA 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A06042-26m - 106778848358016684.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -14270,6 +14393,29 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Edwards, T.\nNo. 790 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06043-26m - 106812506361877348.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 70 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd ko\ufffd6\ufffd{\ufffd\ufffd\u0007}\ufffd\ufffd\ufffdN\ufffd(R:\u0014\u0001v\ufffdv\u000f \u0014\ufffd\ufffd]\ufffd>l\u0017\ufffd\u0591 \ufffd\ufffd\ufffdJv\ufffd\ufffd\ufffd\ufffd\u007f\ufffd\ufffd\ufffdC/3\ufffd\ufffd\ufffd\u0006\ufffd#\ufffd\u0014\ufffd \ufffd{F\ufffd\ufffd\ufffd\"\ufffd\u0013\ufffd+\u0018\ufffd\ufffdH\u00b7*x\ufffdV",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06043-26m - 106812506361877348.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Samuel, J.\nNo. 282 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A07001-26jo - 106724619351854652.pdf": {
       "court": "Superior Court",
@@ -14821,6 +14967,29 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Metzgar, R.\nNo. 1222 MDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A08001-26o - 106812864361915084.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A08001-26o - 106812864361915084.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Solid Waste Services v. Ember Partners\nNo. 1674 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A08003-26m - 106760358355907716.pdf": {
       "court": "Superior Court",
@@ -15405,6 +15574,28 @@
       "score": 100,
       "special_hits": [],
       "title": "In the Interest of: L.W. Appeal of: L.W.\nNo. 1303 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A09032-26m - 106812881361917300.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 96 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd\\[o\ufffd\u0015~\u000f\ufffd\ufffd\ufffdG\ufffd\u0018i\u013b\ufffd\u0016\u0001\ufffd`\ufffd\ufffd\ufffdnw\ufffd\ufffd\ufffd(\u0016}\ufffd8Nb4q2v.\ufffd\ufffd\ufffd=\ufffd\ufffd\ufffd\u0012\ufffdnr\ufffd\u0000N,\ufffd\ufffd!)\ufffd;\u07f90_\ufffd\ufffd\ufffd\ufffd /dQ\u0017\u0016~;/\ufffd\ufffd\ufffd\ufffd\ufffd",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A09032-26m - 106812881361917300.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Allen, B. v. Gushchin, A.\nNo. 606 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A10016-26m - 106775609357691261.pdf": {
       "court": "Superior Court",
@@ -24161,6 +24352,51 @@
       "special_hits": [],
       "title": "Com. v. Saguilan, G.\nNo. 449 EDA 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S08011-26m - 106812508361877371.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S08011-26m - 106812508361877371.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Bishop, S.\nNo. 183 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S08012-26m - 106812465361873120.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S08012-26m - 106812465361873120.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Robertson, J.\nNo. 274 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S08013-26m - 106804823360990915.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -24921,6 +25157,29 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Davis, T.\nNo. 2432 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S09027-26m - 106812936361929171.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09027-26m - 106812936361929171.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Johnson, E.\nNo. 2523 EDA 2024"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S09028-26m - 106748039354546029.pdf": {
       "court": "Superior Court",
@@ -26325,6 +26584,28 @@
       "special_hits": [],
       "title": "Com. v. Cook, T.\nNo. 615 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11023-26m - 106812719361897936.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 68 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd \ufffdn#\ufffd\ufffd]\ufffd\ufffd\ufffd\ufffdd\ufffd O\ufffd3\ufffd!@\ufffd\ufffd \ufffdA\ufffdD \ufffdA^\u0018\\\ufffd\ufffd\ufffdP\u051a\ufffd\u0014}Q~3]\ufffd\ufffd\ufffd -k\ufffdb\u0016\u0010g\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u04d3\ufffd(\ufffd_\ufffd\ufffd\ufffd i\ufffdkj>\ufffd,N",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11023-26m - 106812719361897936.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Lyons, R.\nNo. 1099 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11025-26m - 106805915361124431.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -26347,6 +26628,29 @@
       "special_hits": [],
       "title": "Com. v. Hooten, W.\nNo. 556 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11027-26m - 106812707361894164.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 84 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd ko\ufffd8\ufffd{\ufffd\ufffd\u0007\u007f\ufffd\u000e5W|I\"P\u0004h\ufffd\ufffd>>\ufffd\ufffd] \ufffd\ufffd\ufffdp \ufffd\ufffd^ ];i7\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd,1\ufffdM\ufffdw\u0005b[\u0012\ufffd\u0019\u000eg\ufffd\ufffd\"\ufffd\ufffd\ufffdQ-j\ufffd\u791a\u0573\u0006>[\ufffdf\ufffd\ufffd\ufffd",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11027-26m - 106812707361894164.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Collins, A.\nNo. 1126 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11029-26m - 106774327357514886.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -26368,6 +26672,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Parker, D.\nNo. 642 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11030-26m - 106812674361891386.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 72 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd\\[o\u001b\ufffd\u0015~7\ufffd\ufffd0\ufffd\ufffd\"\ufffd\u000e\ufffd3\ufffd\ufffd@\u2bb7 \ufffd\ufffd\u0016 \u0407$\u000f\u0013Y\ufffd\ufffd\u0232Wr\ufffd\ufffd\ufffd\ufffd\\H\u000e\u78b4\ufffd\ufffd7\ufffd \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\\\ufffd\ufffd\ufffd\u03ea\ufffd\ufffd\u007f\ufffd\ufffdEUX\ufffd\ufffd\u001aY V\ufffdg\ufffd\ufffd\ufffd\u061f\ufffd\ufffd",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11030-26m - 106812674361891386.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Harris, C.\nNo. 182 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11032-26m.pdf": {
       "court": "Superior Court",
@@ -26482,6 +26808,28 @@
       "special_hits": [],
       "title": "Com. v. Giles, B.\nNo. 1537 WDA 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11037-26m - 106812883361918783.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 71 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd]\ufffdn\u001bG\u0012\ufffd/\ufffd\ufffd\ufffd\ufffd\ufffdB\ufffdL\ufffd3H @\u0012\ufffd\ufffd \ufffd8\ufffd2\ufffd \ufffdE\ufffd\u0414M\ufffd\ufffd \ufffd\ufffd\ufffdO\ufffdo\ufffd\u03f7U\ufffd\ufffd 5S\ufffd\ufffdb P\ufffdU\ufffd]]\ufffdW\ufffd\ufffd\u07df\ufffd\ufffdU\ufffd\ufffdZ\ufffd'\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11037-26m - 106812883361918783.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. McAllister, L.\nNo. 681 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11038-26m - 106759878355831604.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -26503,6 +26851,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Goodwin, S.\nNo. 1220 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11039-26m - 106812650361889341.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 75 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd]Yo\u001bI\ufffd~7\ufffd\ufffd\ufffdGra\ufffdV\u0795\ufffd@\ufffd\ufffdi\ufffdvc0\ufffdn{w \ufffd\ufffd\u0001M]\u0725H5)\ufffd\ufffd\u007f\ufffd\u0019\ufffd\ufffdG )\ufffdRj\u001b\ufffdHVeU\ufffd\u0011\ufffd\u0017\ufffd\ufffd\u007f\ufffd\u007f\ufffd6-\ufffdg\u0019\ufffd\ufffd3\ufffd\ufffd\u001a\ufffdg\ufffd",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11039-26m - 106812650361889341.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Cousineau, S.\nNo. 232 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11041-26m - 106769312356963281.pdf": {
       "court": "Superior Court",
@@ -26908,6 +27278,29 @@
       "special_hits": [],
       "title": "Com. v. Butler, S.\nNo. 2611 EDA 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S13013-26m - 106812568361882726.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13013-26m - 106812568361882726.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Addenbrook, C. v. Gormley Construction\nNo. 991 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S13019-25m - 106734198352946129.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -27065,6 +27458,30 @@
       "score": 100,
       "special_hits": [],
       "title": "Com. v. Benton, R.\nNo. 1370 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S13038-26m.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Opinion"
+      ],
+      "excerpt": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u007f\ufffd\ufffd endstream endobj 130 0 obj <</Type /Font /Subtype /Type1 /Encoding /WinAnsiEncoding /BaseFont /Times-Roman >> endobj 131 0 obj <</MediaBox [0 0 611.2800 790.3200] /Parent 30 0 R /CropBox [1.4400 1.2000 609.6000 789.3600] /Rotate 0 /Type /Page /Resources 135 0 R /Contents [132 0 R...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL",
+        "OPINION"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13038-26m.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 115,
+      "special_hits": [],
+      "title": "Com. v. Goins, D.\nNo. 1414 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S13041-26m - 106775632357694716.pdf": {
       "court": "Superior Court",
@@ -27242,6 +27659,28 @@
       "score": 70,
       "special_hits": [],
       "title": "In the Interest of: B.A.N.\nNo. 1541 MDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S14034-26m - 106812325361852342.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 54 0 R /Type/Catalog/ViewerPreferences 349 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S14034-26m - 106812325361852342.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Brantley, D.\nNo. 1444 MDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S14035-26m - 106799239360346882.pdf": {
       "court": "Superior Court",
@@ -27533,6 +27972,29 @@
       "special_hits": [],
       "title": "Com. v. Gray, B.\nNo. 2472 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S15019-26m - 106812639361888306.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 36 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 37 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15019-26m - 106812639361888306.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Brown, R.\nNo. 1396 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S15020-26m - 106807735361349339.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -27621,6 +28083,29 @@
       "score": 70,
       "special_hits": [],
       "title": "Gross, J. v. Vega, T.\nNo. 2538 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S15029-26m - 106812823361908852.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 36 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 37 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15029-26m - 106812823361908852.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "In Re: I.G.N., Appeal of: I.G.N.\nNo. 2943 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S15030-26m - 106804666360968972.pdf": {
       "court": "Superior Court",
@@ -27712,6 +28197,29 @@
       "special_hits": [],
       "title": "Com. v. Armour, S.\nNo. 1533 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S15035-26m - 106812789361905741.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15035-26m - 106812789361905741.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Johnson, I.\nNo. 1219 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S15039-26m - 106781202358270508.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -27757,6 +28265,29 @@
       "special_hits": [],
       "title": "Adoption of: D.W.C. Appeal of: W.C.\nNo. 1578 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S16002-26m - 106812973361932977.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 76 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd ]o\ufffdF\ufffd\u0740\ufffd\ufffd \ufffd\ufffd\ufffdr\ufffd\ufffdCa \ufffd%\ufffd\u0015\ufffd6w \ufffd\u0007\ufffd\u000f\ufffd,\ufffdBm\u0655\uce39?t\u007f\ufffdff?\ufffd\u0014\ufffdn\ufffd\ufffd\u001a \u0016\ufffd]\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u38fa\ufffd\ufffd_+\u491eX\ufffd\ufffdZ9\u066e\ufffd\ufffd~\ufffd\ufffdds|",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S16002-26m - 106812973361932977.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Estate of: Lucas, T. Appeal of: Newransky, P.\nNo. 1123 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S16003-26m - 106797564360162353.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -27778,6 +28309,51 @@
       "score": 70,
       "special_hits": [],
       "title": "Calm Properties v. Edge, A.\nNo. 900 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S16006-26m - 106812919361926749.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 70 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd\\mo\u001bG\u000e\ufffdn\ufffd\ufffda?J\u0007k\ufffd\ufffd;Ea N\ufffd\ufffd\u0005M\ufffdKR\u0014\ufffd\ufffdPld\ufffd\u059d,\ufffd+\ufffd\\~Q\ufffd\u645c\ufffd]\ufffdZ:\ufffdC5@\ufffd}\ufffd \u000e\ufffd\ufffd r\ufffd8<(\ufffd\u0002\ufffd\u0005\ufffd\ufffd\"\ufffd\ufffdY\u0006\ufffd5\ufffd\u00c3",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S16006-26m - 106812919361926749.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Bush, B.\nNo. 1187 WDA 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S16011-26m - 106812966361931513.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 62 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd k\ufffd\ufffd\ufffd\ufffd\ufffd\u000f\ufffd(\u0015\u0016\ufffd}\ufffdM`\ufffd>\ufffd\u0005 \ufffdMk\ufffd\ufffd\ufffd\u0018\u0001\ufffd\ufffd\ufffd\u0004\ufffd$G\ufffd\ufffd\ufffd\ufffd\ufffd3\ufffd\u000f\ufffd\"\ufffd\uce23\u0006\ufffdI\"\ufffd\ufffd\ufffd\ufffdy?\u05bf_<)\ufffd\u0012\ufffd\ufffd\ufffd\ufffd\ufffd\u0013 \u007f]-'\ufffd\ufffd\u0153\ufffd\ufffdi\ufffd",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S16011-26m - 106812966361931513.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Jones, R.\nNo. 768 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S16026-26m - 106797466360154699.pdf": {
       "court": "Superior Court",
@@ -28179,6 +28755,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Brooks, R.\nNo. 1546 MDA 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S24040-25o - 106812897361920928.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 2 0 R/Group< >/Tabs/S/Parent 67 0 R>> endobj 2 0 obj < >stream x\ufffd\ufffd\\Ko\u001b\ufffd\u0011\ufffd \ufffd\u007f\ufffd!\u00072\ufffd:\ufffd\ufffdi \b\ufffd\ufffd&\ufffd\ufffdC\ufffd\ufffd\ufffd\ufffd\ufffdn\ufffd\ufffd\ufffd\ufffd\u0304\ufffd\ufffd$%\ufffd\ufffd\ufffd\u007f3U\ufffd\ufffdC\ufffd3%Xr1\u0006L\u034b\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdY\ufffd\u001a\ufffd\ufffd\ufffd\ufffd4\ufffd\u0000\ufffd1\ufffd\u0266",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24040-25o - 106812897361920928.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-06-09T17:22:21+00:00",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Isadore, T.\nNo. 1525 WDA 2024"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S27020-23m - 106724457351840977.pdf": {
       "court": "Superior Court",
@@ -52785,6 +53383,27 @@
       "published_utc": "2026-06-08T04:00:00+00:00",
       "title": "Judgment Lists"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/060926 E.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/060926 E.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Judgment Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/060926 M.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/060926 M.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Judgment Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/060926 W.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/060926 W.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Judgment Lists"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/2201EDA2025jo - 106712735350608739.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-03-13T20:29:02+00:00",
@@ -53036,6 +53655,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A03017-26m - 106772417357322135.pdf",
       "published_utc": "2026-05-05T04:00:00+00:00",
       "title": "Com. v. Muhammid, K.N.\nNo. 295 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A03021-26o - 106812910361925425.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A03021-26o - 106812910361925425.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Levin, D. v. Prime Communications Inc.\nNo. 874 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A03023-26m - 106737354353343571.pdf": {
       "court": "Superior Court",
@@ -53310,6 +53936,13 @@
       "published_utc": "2026-06-02T04:00:00+00:00",
       "title": "Maldonado, A. v. Wismer, D.\nNo. 1670 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A05004-26o - 106812407361864324.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A05004-26o - 106812407361864324.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Carmen Enterprises v. Murpenter, LLC\nNo. 420 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A05007-26m - 106804755360983622.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-06-02T20:40:28+00:00",
@@ -53576,12 +54209,26 @@
       "published_utc": "2026-06-04T04:00:00+00:00",
       "title": "Plunkett, C. v. Alpha Power Sports\nNo. 844 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06041-26m - 106812540361879501.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06041-26m - 106812540361879501.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Crouse, A.\nNo. 1461 WDA 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A06042-26m - 106778848358016684.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-05-11T16:28:13+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06042-26m - 106778848358016684.pdf",
       "published_utc": "2026-05-11T04:00:00+00:00",
       "title": "Com. v. Edwards, T.\nNo. 790 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A06043-26m - 106812506361877348.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A06043-26m - 106812506361877348.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Samuel, J.\nNo. 282 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A07001-26jo - 106724619351854652.pdf": {
       "court": "Superior Court",
@@ -53757,6 +54404,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A07045-26m - 106697667348943894.pdf",
       "published_utc": "2026-03-02T05:00:00+00:00",
       "title": "Com. v. Metzgar, R.\nNo. 1222 MDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A08001-26o - 106812864361915084.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A08001-26o - 106812864361915084.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Solid Waste Services v. Ember Partners\nNo. 1674 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A08003-26m - 106760358355907716.pdf": {
       "court": "Superior Court",
@@ -53939,6 +54593,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A09027-26m - 106804463360941205.pdf",
       "published_utc": "2026-06-02T04:00:00+00:00",
       "title": "In the Interest of: L.W. Appeal of: L.W.\nNo. 1303 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A09032-26m - 106812881361917300.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A09032-26m - 106812881361917300.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Allen, B. v. Gushchin, A.\nNo. 606 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A10016-26m - 106775609357691261.pdf": {
       "court": "Superior Court",
@@ -56677,6 +57338,20 @@
       "published_utc": "2026-05-14T04:00:00+00:00",
       "title": "Com. v. Saguilan, G.\nNo. 449 EDA 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S08011-26m - 106812508361877371.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S08011-26m - 106812508361877371.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Bishop, S.\nNo. 183 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S08012-26m - 106812465361873120.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S08012-26m - 106812465361873120.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Robertson, J.\nNo. 274 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S08013-26m - 106804823360990915.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-06-02T20:40:28+00:00",
@@ -56914,6 +57589,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09026-26m - 106739692353601026.pdf",
       "published_utc": "2026-04-07T04:00:00+00:00",
       "title": "Com. v. Davis, T.\nNo. 2432 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S09027-26m - 106812936361929171.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S09027-26m - 106812936361929171.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Johnson, E.\nNo. 2523 EDA 2024"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S09028-26m - 106748039354546029.pdf": {
       "court": "Superior Court",
@@ -57356,6 +58038,13 @@
       "published_utc": "2026-06-02T04:00:00+00:00",
       "title": "Com. v. Cook, T.\nNo. 615 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11023-26m - 106812719361897936.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11023-26m - 106812719361897936.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Lyons, R.\nNo. 1099 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11025-26m - 106805915361124431.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-06-03T16:27:52+00:00",
@@ -57363,12 +58052,26 @@
       "published_utc": "2026-06-03T04:00:00+00:00",
       "title": "Com. v. Hooten, W.\nNo. 556 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11027-26m - 106812707361894164.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11027-26m - 106812707361894164.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Collins, A.\nNo. 1126 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11029-26m - 106774327357514886.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-05-06T18:11:51+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11029-26m - 106774327357514886.pdf",
       "published_utc": "2026-05-06T04:00:00+00:00",
       "title": "Com. v. Parker, D.\nNo. 642 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11030-26m - 106812674361891386.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11030-26m - 106812674361891386.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Harris, C.\nNo. 182 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11032-26m.pdf": {
       "court": "Superior Court",
@@ -57405,12 +58108,26 @@
       "published_utc": "2026-06-05T04:00:00+00:00",
       "title": "Com. v. Giles, B.\nNo. 1537 WDA 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11037-26m - 106812883361918783.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11037-26m - 106812883361918783.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. McAllister, L.\nNo. 681 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11038-26m - 106759878355831604.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-04-23T19:01:20+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11038-26m - 106759878355831604.pdf",
       "published_utc": "2026-04-23T04:00:00+00:00",
       "title": "Com. v. Goodwin, S.\nNo. 1220 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S11039-26m - 106812650361889341.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S11039-26m - 106812650361889341.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Cousineau, S.\nNo. 232 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S11041-26m - 106769312356963281.pdf": {
       "court": "Superior Court",
@@ -57538,6 +58255,13 @@
       "published_utc": "2026-06-02T04:00:00+00:00",
       "title": "Com. v. Butler, S.\nNo. 2611 EDA 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S13013-26m - 106812568361882726.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13013-26m - 106812568361882726.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Addenbrook, C. v. Gormley Construction\nNo. 991 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S13019-25m - 106734198352946129.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-04-01T16:10:12+00:00",
@@ -57586,6 +58310,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13037-26m - 106789133359145543.pdf",
       "published_utc": "2026-05-19T04:00:00+00:00",
       "title": "Com. v. Benton, R.\nNo. 1370 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S13038-26m.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S13038-26m.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Goins, D.\nNo. 1414 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S13041-26m - 106775632357694716.pdf": {
       "court": "Superior Court",
@@ -57642,6 +58373,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S14033-26m - 106795019359899190.pdf",
       "published_utc": "2026-05-26T04:00:00+00:00",
       "title": "In the Interest of: B.A.N.\nNo. 1541 MDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S14034-26m - 106812325361852342.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S14034-26m - 106812325361852342.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Brantley, D.\nNo. 1444 MDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S14035-26m - 106799239360346882.pdf": {
       "court": "Superior Court",
@@ -57734,6 +58472,13 @@
       "published_utc": "2026-05-27T04:00:00+00:00",
       "title": "Com. v. Gray, B.\nNo. 2472 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S15019-26m - 106812639361888306.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15019-26m - 106812639361888306.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Brown, R.\nNo. 1396 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S15020-26m - 106807735361349339.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-06-04T17:41:29+00:00",
@@ -57761,6 +58506,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15028-26m - 106783827358565352.pdf",
       "published_utc": "2026-05-14T04:00:00+00:00",
       "title": "Gross, J. v. Vega, T.\nNo. 2538 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S15029-26m - 106812823361908852.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15029-26m - 106812823361908852.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "In Re: I.G.N., Appeal of: I.G.N.\nNo. 2943 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S15030-26m - 106804666360968972.pdf": {
       "court": "Superior Court",
@@ -57790,6 +58542,13 @@
       "published_utc": "2026-06-05T04:00:00+00:00",
       "title": "Com. v. Armour, S.\nNo. 1533 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S15035-26m - 106812789361905741.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S15035-26m - 106812789361905741.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Johnson, I.\nNo. 1219 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S15039-26m - 106781202358270508.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-05-12T17:05:32+00:00",
@@ -57804,12 +58563,33 @@
       "published_utc": "2026-05-27T04:00:00+00:00",
       "title": "Adoption of: D.W.C. Appeal of: W.C.\nNo. 1578 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S16002-26m - 106812973361932977.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S16002-26m - 106812973361932977.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Estate of: Lucas, T. Appeal of: Newransky, P.\nNo. 1123 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S16003-26m - 106797564360162353.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-05-27T17:55:14+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S16003-26m - 106797564360162353.pdf",
       "published_utc": "2026-05-27T04:00:00+00:00",
       "title": "Calm Properties v. Edge, A.\nNo. 900 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S16006-26m - 106812919361926749.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S16006-26m - 106812919361926749.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Bush, B.\nNo. 1187 WDA 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S16011-26m - 106812966361931513.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S16011-26m - 106812966361931513.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Jones, R.\nNo. 768 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S16026-26m - 106797466360154699.pdf": {
       "court": "Superior Court",
@@ -57936,6 +58716,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S22029-25m - 106797133360132791.pdf",
       "published_utc": "2026-05-27T04:00:00+00:00",
       "title": "Com. v. Brooks, R.\nNo. 1546 MDA 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S24040-25o - 106812897361920928.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-06-09T17:22:21+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24040-25o - 106812897361920928.pdf",
+      "published_utc": "2026-06-09T04:00:00+00:00",
+      "title": "Com. v. Isadore, T.\nNo. 1525 WDA 2024"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S27020-23m - 106724457351840977.pdf": {
       "court": "Superior Court",
