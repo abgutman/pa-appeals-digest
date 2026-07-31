@@ -43412,6 +43412,28 @@
       "special_hits": [],
       "title": "Garnand, M. v. Garnand, A.\nNo. 185 MDA 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S21017-26m - 106872902368436089.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "obj < >/Pages 2 0 R /StructTreeRoot 62 0 R /Type/Catalog/ViewerPreferences 286 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < >...",
+      "first_seen_utc": "2026-07-31T17:23:49+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S21017-26m - 106872902368436089.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-07-31T17:23:49+00:00",
+      "published_utc": "2026-07-31T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In the Int. of: M.V.E.\nNo. 399 MDA 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S21024-26m - 106845590365496870.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -43971,6 +43993,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Whisner, Z.\nNo. 304 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S24019-26m - 106872592368409224.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "uctTreeRoot 34 0 R /Type/Catalog/ViewerPreferences 169 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R 14 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj <...",
+      "first_seen_utc": "2026-07-31T17:23:49+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24019-26m - 106872592368409224.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-07-31T17:23:49+00:00",
+      "published_utc": "2026-07-31T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "U.S. Bank National Assoc. v. Baynes, H.\nNo. 1492 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S24030-26m - 106851543366164201.pdf": {
       "court": "Superior Court",
@@ -89046,6 +89090,13 @@
       "published_utc": "2026-07-29T04:00:00+00:00",
       "title": "Garnand, M. v. Garnand, A.\nNo. 185 MDA 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S21017-26m - 106872902368436089.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-07-31T17:23:49+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S21017-26m - 106872902368436089.pdf",
+      "published_utc": "2026-07-31T04:00:00+00:00",
+      "title": "In the Int. of: M.V.E.\nNo. 399 MDA 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S21024-26m - 106845590365496870.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-07-08T19:16:30+00:00",
@@ -89220,6 +89271,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24014-25m - 106859649367036742.pdf",
       "published_utc": "2026-07-21T04:00:00+00:00",
       "title": "Com. v. Whisner, Z.\nNo. 304 WDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S24019-26m - 106872592368409224.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-07-31T17:23:49+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S24019-26m - 106872592368409224.pdf",
+      "published_utc": "2026-07-31T04:00:00+00:00",
+      "title": "U.S. Bank National Assoc. v. Baynes, H.\nNo. 1492 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S24030-26m - 106851543366164201.pdf": {
       "court": "Superior Court",
