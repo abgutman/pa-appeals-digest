@@ -8211,6 +8211,28 @@
       "special_hits": [],
       "title": "Core5 at Route 100, LLC v. Lowhill Twp. &amp; Lowhill Twp. Bd. of Supers. - 57 C.D. 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/586CD25_8-21-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\Yo\u001b9\u0012~7\ufffd\ufffd\u040f\ufffd\ufffdC6\ufffd>\u0006\u0003\u0003\ufffdb'\u028c\u0013\ufffd\ufffd\ufffd`f\ufffd\u000f\ufffd# \u0018_\ufffdl\u0007\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdx\ufffdE9\ufffd\ufffd-9\ufffd\"v7\ufffdU\ufffd\ufffd\ufffd \ufffd\ufffd\ufffd\ufffd \ufffd0\ufffdW\ufffd4bQ\u0006\ufffd\ufffde\u001a\ufffdg\ufffd\u001b ~\ufffdn67F\u01db",
+      "first_seen_utc": "2026-08-21T13:39:58+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/586CD25_8-21-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-08-21T13:39:58+00:00",
+      "published_utc": "2026-08-21T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "C.E. Scharer v. PPB - 586 C.D. 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/58CD25_5-18-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -56389,6 +56411,24 @@
       "special_hits": [],
       "title": "Reargument Table"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport082126.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.4 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/Pages 3 0 R /Type/Catalog>> endobj 2 0 obj < > endobj 3 0 obj < > endobj 4 0 obj < > /Parent 3 0 R /Contents 5 0 R >> endobj 5 0 obj < > stream...",
+      "first_seen_utc": "2026-08-21T13:39:58+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport082126.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-08-21T13:39:58+00:00",
+      "published_utc": "2026-08-21T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Reargument Table"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/100MAL2026 - 106867379367916677.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -88288,6 +88328,13 @@
       "published_utc": "2026-04-07T04:00:00+00:00",
       "title": "Core5 at Route 100, LLC v. Lowhill Twp. &amp; Lowhill Twp. Bd. of Supers. - 57 C.D. 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/586CD25_8-21-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-08-21T13:39:58+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/586CD25_8-21-26.pdf",
+      "published_utc": "2026-08-21T04:00:00+00:00",
+      "title": "C.E. Scharer v. PPB - 586 C.D. 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/58CD25_5-18-26.pdf": {
       "court": "Commonwealth Court",
       "first_seen_utc": "2026-05-18T15:18:27+00:00",
@@ -103861,6 +103908,13 @@
       "first_seen_utc": "2026-08-14T15:45:02+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport081426.pdf",
       "published_utc": "2026-08-14T04:00:00+00:00",
+      "title": "Reargument Table"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport082126.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-08-21T13:39:58+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport082126.pdf",
+      "published_utc": "2026-08-21T04:00:00+00:00",
       "title": "Reargument Table"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/100MAL2026 - 106867379367916677.pdf": {
