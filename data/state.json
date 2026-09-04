@@ -8876,6 +8876,28 @@
       "special_hits": [],
       "title": "A.D. Butler v. The Philadelphia Parking Authority - 560 C.D. 2019"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/569CD25_9-4-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 13 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\[o\u06f8\u0012~\u000f\ufffd\ufffd\ufffd\ufffd}\ufffd\u0017\ufffd\ufffdx\u0013\ufffd\ufffd@.M\ufffd\ufffdi\ufffd\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffd&rl4\ufffd\ufffd\ufffd\u04e0\ufffd\u05df\u0019^$\u0662\ufffdm:rZ\ufffd\ufffd(Q\ufffd8\u00f9qH\ufffd\ufffd\u075d$N\ufffd_\ufffdx\ufffdD)\ufffd\ufffd9\ufffd\ufffdbw\ufffd\u00ef\ufffdlw\ufffd`\ufffd\ufffd\ufffdc\u00161",
+      "first_seen_utc": "2026-09-04T14:42:33+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/569CD25_9-4-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-04T14:42:33+00:00",
+      "published_utc": "2026-09-04T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. $14,258.36 USD; Appeal of: D. Campbell - 569 C.D. 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/56CD24_5-7-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -61508,6 +61530,28 @@
       "special_hits": [],
       "title": "Reargument Table"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport090426.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.4 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/Outlines 33 0 R /Pages 3 0 R /Type/Catalog>> endobj 2 0 obj < > endobj 3 0 obj < > endobj 4 0 obj < > /Rotate 90 /Contents 5 0 R /MediaBox [0 0 612 792] /Parent...",
+      "first_seen_utc": "2026-09-04T14:42:33+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport090426.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-04T14:42:33+00:00",
+      "published_utc": "2026-09-04T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Reargument Table"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/100MAL2026 - 106867379367916677.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -95245,6 +95289,13 @@
       "published_utc": "2026-03-10T04:00:00+00:00",
       "title": "A.D. Butler v. The Philadelphia Parking Authority - 560 C.D. 2019"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/569CD25_9-4-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-09-04T14:42:33+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/569CD25_9-4-26.pdf",
+      "published_utc": "2026-09-04T04:00:00+00:00",
+      "title": "Com. v. $14,258.36 USD; Appeal of: D. Campbell - 569 C.D. 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/56CD24_5-7-26.pdf": {
       "court": "Commonwealth Court",
       "first_seen_utc": "2026-05-07T16:03:48+00:00",
@@ -112253,6 +112304,13 @@
       "first_seen_utc": "2026-08-28T20:36:54+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport082926.pdf",
       "published_utc": "2026-08-28T04:00:00+00:00",
+      "title": "Reargument Table"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport090426.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-04T14:42:33+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport090426.pdf",
+      "published_utc": "2026-09-04T04:00:00+00:00",
       "title": "Reargument Table"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/100MAL2026 - 106867379367916677.pdf": {
