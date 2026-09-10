@@ -7145,6 +7145,28 @@
       "special_hits": [],
       "title": "W.R. Travis v. Bureau of Driver Licensing - 338 &amp; 339 C.D. 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/341CD25ORD_9-10-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffdZmo\ufffd6\u0010\ufffdn\ufffd\ufffd\ufffd \ufffd\"\ufffd\ufffd&\ufffd\u001a\ufffd\u0001i\ufffd\ufffddK\ufffd9\ue0a1\ufffd\u0007\ufffdU\ufffd\u0000\ufffd\ufffd\ufffdF\ufffd\ufffd\ufffd\uf392l'b\ufffd-:\u00061 \ufffd(Rz\ufffd\ufffd\ufffd\ufffd\ufffdQ\ufffd\ufffd\u0003\ufffd\u0005\ufffdJ\ufffd\ufffd`\u0016\u03aeTl] \u0007\u0017\ufffd\ufffdb8x> \u000e~x)\ufffd4\\",
+      "first_seen_utc": "2026-09-10T14:43:31+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/341CD25ORD_9-10-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-10T14:43:31+00:00",
+      "published_utc": "2026-09-10T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "J.J. Koehler, Jr. v. J. Wetzel, et al. - 341 C.D. 2025 (RECONSIDERATION ORDER)"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/341CD25_7-21-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -9653,6 +9675,28 @@
       "score": 70,
       "special_hits": [],
       "title": "P. Scott v. PA PUC - 679 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/680CD25_9-10-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\mS\ufffd8\u0012\ufffdN\u0015\ufffd\ufffd \ufffd[Ag\ufffd\ufffd\ufffdm\ufffd*f\ufffd\u0000\u0015\u0002\u0007\ufffdQ[\ufffd}\ufffd\ufffd@\ufffd\ufffdmgH\ufffd\ufffd\u0013\ufffd_]wK\ufffd\ufffdX\u07bb\u0010\ufffdI\ufffd\u0000\ufffdl\ufffd\u95ba[\ufffd\ufffd5\ufffdm}-c\u0019\ufffd3\\$Y\ufffd\ufffd\ufffd\u0088d>[_;\ufffd)yX_\u001b\ufffd\ufffd",
+      "first_seen_utc": "2026-09-10T14:43:31+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/680CD25_9-10-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-10T14:43:31+00:00",
+      "published_utc": "2026-09-10T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "S. Graaf v. Scranton Counseling Center (WCAB) - 680 C.D. 2025"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/681CD24ORD_2-6-26.pdf": {
       "court": "Commonwealth Court",
@@ -96278,6 +96322,13 @@
       "published_utc": "2026-07-16T04:00:00+00:00",
       "title": "W.R. Travis v. Bureau of Driver Licensing - 338 &amp; 339 C.D. 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/341CD25ORD_9-10-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-09-10T14:43:31+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/341CD25ORD_9-10-26.pdf",
+      "published_utc": "2026-09-10T04:00:00+00:00",
+      "title": "J.J. Koehler, Jr. v. J. Wetzel, et al. - 341 C.D. 2025 (RECONSIDERATION ORDER)"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/341CD25_7-21-26.pdf": {
       "court": "Commonwealth Court",
       "first_seen_utc": "2026-07-21T13:26:21+00:00",
@@ -97068,6 +97119,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/679CD25_9-3-26.pdf",
       "published_utc": "2026-09-03T04:00:00+00:00",
       "title": "P. Scott v. PA PUC - 679 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/680CD25_9-10-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-09-10T14:43:31+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/680CD25_9-10-26.pdf",
+      "published_utc": "2026-09-10T04:00:00+00:00",
+      "title": "S. Graaf v. Scranton Counseling Center (WCAB) - 680 C.D. 2025"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/681CD24ORD_2-6-26.pdf": {
       "court": "Commonwealth Court",
