@@ -78128,6 +78128,28 @@
       "special_hits": [],
       "title": "In the Matter of: Ann Marie Yastishock - No. 34 RST 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/34WAL2024 - 106928292374390672.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\ufffd'\u05ac \ufffd\ufffd\ufffdQ\ufffd\ufffd\ufffd\u0015))\u07e9\ufffd&\ufffd\u0684\ufffdB{\u000e\ufffdg\ufffdc\ufffd[\ufffd\ufffd\ufffd\ufffd\ufffd\u0000\ufffd\ufffd\ufffd\ud102\ufffd \ufffdK}\ufffdl\ufffd \ufffd\u0007Vs\u0001\u0003 endstream endobj 32 0 obj < > endobj 36 0 obj < > endobj 37 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 43 0 R/Group< >/Tabs/S/Parent 32 0 R>> endobj 38 0 obj < > endobj 39 0 obj <...",
+      "first_seen_utc": "2026-09-17T20:51:54+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/34WAL2024 - 106928292374390672.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-17T20:51:54+00:00",
+      "published_utc": "2026-09-17T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. King, D., Pet. - No. 34 WAL 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/34WAL2026 - 106885545369793554.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -96086,6 +96108,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Downingtown Area SD v Chester Cnty Bd of Assmt. - No. 46 MAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-74-2026pco - 106928529374421644.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": ".$\ufffdIy\u0013h-\ufffdlM\ufffd\\j\u076c\u000e\ufffd\u031e\ufffd\ufffdK\ufffdu:tdP\ufffd`\ufffdw\ufffd\u007f(\ufffd>4e([f2g\ufffd\ufffd\ufffd(\ufffdC\ufffd$\ufffd \ufffd\ufffd\u0018'?I\ufffd\ufffd\u0017>\ufffd\u00e6\ufffd(\ufffd\ufffd\ufffd\ufffd\ufffd'\u000e\ufffd\ufffdG\u0016\ufffdV\ufffd% > endobj 32 0 obj < > endobj 33 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 38 0 R/Group< >/Tabs/S/Parent 28 0 R>> endobj 34 0 obj < > endobj 35 0 obj < > endobj 36 0 obj < > endobj...",
+      "first_seen_utc": "2026-09-17T20:51:54+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-74-2026pco - 106928529374421644.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-17T20:51:54+00:00",
+      "published_utc": "2026-09-17T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In re: Nomination Papers of Christopher Gambino; Appeal of: Faulkner, L. - No. 55 MAP 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/J-75-2026pco - 106928307374394013.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -123675,6 +123719,13 @@
       "published_utc": "2026-05-21T04:00:00+00:00",
       "title": "In the Matter of: Ann Marie Yastishock - No. 34 RST 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/34WAL2024 - 106928292374390672.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-17T20:51:54+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/34WAL2024 - 106928292374390672.pdf",
+      "published_utc": "2026-09-17T04:00:00+00:00",
+      "title": "Commonwealth v. King, D., Pet. - No. 34 WAL 2024"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/34WAL2026 - 106885545369793554.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-08-12T18:54:32+00:00",
@@ -129442,6 +129493,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-72B-2025mo - 106787412358990462.pdf",
       "published_utc": "2026-05-19T04:00:00+00:00",
       "title": "Downingtown Area SD v Chester Cnty Bd of Assmt. - No. 46 MAP 2024"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-74-2026pco - 106928529374421644.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-17T20:51:54+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/J-74-2026pco - 106928529374421644.pdf",
+      "published_utc": "2026-09-17T04:00:00+00:00",
+      "title": "In re: Nomination Papers of Christopher Gambino; Appeal of: Faulkner, L. - No. 55 MAP 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/J-75-2026pco - 106928307374394013.pdf": {
       "court": "Pennsylvania Supreme Court",
