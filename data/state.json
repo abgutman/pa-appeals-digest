@@ -1,6 +1,6 @@
 {
-  "last_digest_slot": "2026-09-25-AM",
-  "last_digest_utc": "2026-09-25T13:10:28+00:00",
+  "last_digest_slot": "2026-09-25-PM",
+  "last_digest_utc": "2026-09-25T18:10:27+00:00",
   "processed": {
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1000CD26_8-18-26.pdf": {
       "court": "Commonwealth Court",
@@ -7632,6 +7632,28 @@
       "special_hits": [],
       "title": "PA-American Water Co. v. PA PUC - 355 &amp; 356 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/358MD25_9-25-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 18 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd][O \ufffd\u0012~G\ufffd?\ufffd\ufffdN\u0004}\ufffdo\ufffd3Id\u0240\ufffd\u0010\u0019\ufffdc\ufffd#+>\u000f\u0013<\u0018Gfq\ufffd5\u0016\u007f,\ufffd\ufffdT\ufffdevv\ufffd\ufffd\u000eT\u001b[\u0002\ufffd\ufffdUu\u05fd\ufffd\ufffd\u007fonT\ufffd\ufffd\u007f-\u0017EU\ufffd\ufffd\u06f4\ufffdX\ufffd\ufffd\u001b\ufffd\u007fW\ufffd77v\ufffd77\ufffd",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/358MD25_9-25-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "C.D. v. PA State Police - 358 M.D. 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/360CD25_8-31-26.pdf": {
       "court": "Commonwealth Court",
       "doc_types": [
@@ -7987,6 +8009,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Dept. of L&amp;I v. UCBR - 390 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/391CD24_9-25-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\u075cYs\u001b\ufffd\u0011\ufffd\ufffdU\ufffd\uf027-2%#s`\ufffd}\ufffd\ufffd\ufffd\u0596l\ufffd\u022c+\ufffd\ufffd\ufffdH\u001a\ufffd*S\ufffdv(mJ\ufffd\ufffd\ufffd\ufffd1<\u0006\ufffd\u391b\ufffd]W\ufffd\ufffd\u0003\ufffd?z\ufffdF\ufffd\ufffd\ufffdo\ufffd\u0007\ufffd\ufffd\ufffd_\u0015'\"\u00129|\u0016U\"\ufffd\ufffd\ufffd\ufffd\ufffd_\ufffd\ufffd\ufffd\ufffddrx\ufffd\u05dfb",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/391CD24_9-25-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "In re: The Matter of Proceedings by the Redevelopment Authority of the County of Schuylkill, et al. ~ Appeal of: Reading Anthracite Company, et al. - Nos. 391 &amp; 748 C.D. 2024"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/392MD25_7-24-26.pdf": {
       "court": "Commonwealth Court",
@@ -9520,6 +9564,28 @@
       "score": 70,
       "special_hits": [],
       "title": "D.J. Norman v. PA PUC - 58 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/591CD25_9-25-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 20 0 R 21 0 R 22 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj <...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/591CD25_9-25-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Formation Energy LLC v. South Union Township - 591 C.D. 2025"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/5CD25_4-7-26.pdf": {
       "court": "Commonwealth Court",
@@ -21797,6 +21863,60 @@
       "special_hits": [],
       "title": "Judgement Lists"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/092526 E.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1144 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/092526 E.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgement Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/092526 M.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 900 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/092526 M.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgement Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/092526 W.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >>> endobj 2 0 obj < > endobj 3 0 obj [ 0 0 612 792 ] endobj 4 0 obj [ 0 0 612 792 ] endobj 5 0 obj << /Length 1019 /Filter [ /FlateDecode ] >>...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/092526 W.pdf",
+      "pdf_link": null,
+      "place_hits": [],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 0,
+      "special_hits": [],
+      "title": "Judgement Lists"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/2201EDA2025jo - 106712735350608739.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -33942,6 +34062,29 @@
       "special_hits": [],
       "title": "Com. v. Gonzalez, M.\nNo. 1017 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A19019-26o - 106937568375373401.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A19019-26o - 106937568375373401.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Collins, M.\nNo. 2195 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A19030-26m - 106924527373923787.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -34299,6 +34442,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Com. v. Radney, K.\nNo. 274 WDA 2026"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A22042-26m - 106937611375379503.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "R /StructTreeRoot 58 0 R /Type/Catalog/ViewerPreferences 272 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 13 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A22042-26m - 106937611375379503.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Walker, R.\nNo. 1250 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A22043-26m - 106936007375192121.pdf": {
       "court": "Superior Court",
@@ -54081,6 +54246,29 @@
       "special_hits": [],
       "title": "Com. v. Curry, R.\nNo. 1429 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S19013-26m - 106937562375373365.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "Root 57 0 R /Type/Catalog/ViewerPreferences 249 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 11 0 R 17 0 R 18 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S19013-26m - 106937562375373365.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Com. v. Sarver, B.\nNo. 1498 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S19016-26m - 106867702367952398.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -59744,6 +59932,28 @@
       "special_hits": [],
       "title": "Stephenson, S. v. Brown-Schields, J.\nNo. 1742 MDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S26035-26m - 106937563375370835.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/Annots[ 16 0 R] /MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffd\\\ufffdo\ufffd8\u0012\ufffd \ufffd\u0003?Z\ufffd\ufffd\u0015\ufffd\u04a2\b\ufffd\ufffd\u04f8\ufffd\u0639<\ufffdW\ufffd \u0016n^k\ufffd\ufffdt\ufffd\ufffd\ufffd\ufffd\ufffd73\ufffd\ufffd\ufffd\u0012S\u0561r\u0001\ufffdX$\ufffd\ufffd\ufffdp83\ufffda\ufffd\ufffd\ufffdZ\ufffdS\ufffd\u0245d)\ufffdpu\ufffdd\ufffd\ufffd\ufffd\ufffd\ufffd`7\ufffdk\ufffd'\ufffdko\ufffd\u0004\ufffd\ufffd",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S26035-26m - 106937563375370835.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Moua, N. Wellspan Health\nNo. 1690 MDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S26036-26m - 106875944368745361.pdf": {
       "court": "Superior Court",
       "doc_types": [
@@ -60078,6 +60288,29 @@
       "score": 100,
       "special_hits": [],
       "title": "Com. v. Gomery, E.\nNo. 2562 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S27013-26m - 106937559375370412.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE",
+        "PRECEDENTIAL"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S27013-26m - 106937559375370412.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 100,
+      "special_hits": [],
+      "title": "Figueroa, D. v. Mayfair Operator\nNo. 2615 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S27015-26m - 106931703374732269.pdf": {
       "court": "Superior Court",
@@ -61347,6 +61580,28 @@
       ],
       "processed_utc": "2026-09-11T18:06:21+00:00",
       "published_utc": "2026-09-11T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Com. v. Oglesby, F.\nNo. 2729 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S29026-26o - 106937588375378114.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj << /Contents [ 20 0 R ] /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 2 0 R /Resources 21 0...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S29026-26o - 106937588375378114.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
       "reversal_hits": [],
       "score": 70,
       "special_hits": [],
@@ -67793,6 +68048,28 @@
       "special_hits": [],
       "title": "Reargument Table"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport092526.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "%PDF-1.4 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < >/Outlines 33 0 R /Pages 3 0 R /Type/Catalog>> endobj 2 0 obj < > endobj 3 0 obj < > endobj 4 0 obj < > /Rotate 90 /Contents 5 0 R /MediaBox [0 0 612 792] /Parent...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport092526.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Reargument Table"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/100EAL2026 - 106914892372985308.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -70819,6 +71096,28 @@
       "special_hits": [],
       "title": "Northwestern Lehigh SD v. Piechota, M. - No. 139 MAL 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/139MM2026 - 106937617375379320.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "O\ufffd\ufffd\ufffdiYKZ&l\ufffd\ufffd\ufffd\ufffdwj\u0013\ufffd \ufffd9\u0018\ufffd\ufffde\ufffdZ\ufffd\ufffd\ufffdqp\u0000\ufffd\ufffd{;!o\ufffd\u0006\ufffdR=<\u001b\ufffd\ufffd\ufffd\u0006\ufffd\ufffd\ufffd\ufffd endstream endobj 35 0 obj < > endobj 39 0 obj < > endobj 40 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 46 0 R/Group< >/Tabs/S/Parent 35 0 R>> endobj 41 0 obj < > endobj 42 0 obj < > endobj...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/139MM2026 - 106937617375379320.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Moragne-El, B., Pet. - No. 139 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/13EAL2025 - 106749631354718309.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -71017,6 +71316,28 @@
       "special_hits": [],
       "title": "Commonwealth v. Zamichieli, L., Pet. - No. 140 MM 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/140MM2026 - 106937637375380678.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "H%O \ufffdE\ufffdjYEd\ufffd\ufffd\ufffdp\ufffd\\\ufffd 8\ufffd\ufffd7\ufffd\ufffd\ufffd\u0012\u0016qz\ufffd\ufffdnp \ufffdu\ufffd\ufffd\ufffdp\ufffd\ufffd\ufffdq\ufffd\u05f4\u0007\ufffd\u00122\u0017\u0019\ufffdL4\ufffd\u039aI\ufffd\u0386}\ufffdZ \u0000\ufffd\ufffd \ufffd\ufffdl \ufffd\ufffdV\ufffd[ T\ufffd\ufffd\ufffdz\ufffd^\u0002H)E\ufffd\ufffd[\ufffd\ufffd\ufffd\ufffd\ufffd+@\ufffd\ufffdI\ufffdJ$\ufffdfq\ufffd\ufffdD\ufffd:6Y\ufffdY\ufffd\u0018\ufffd\u000e\ufffd\\\ufffd\ufffd\ufffd)2\"\ufffd\ufffd \ufffd\u0019\ufffd\ufffd\ufffd\ufffd\ufffd endstream endobj 8 0 obj < >/Font< >>>/MediaBox[ 0 0 612 792]/Contents 9 0 R /Parent 2 0 R /Type/Page>> endobj 9 0 obj < >stream x\ufffd\ufffdY\u02ce[7 \ufffd\ufffd+\ufffd\u0017\ufffdH\u0014\ufffd\u0002\ufffd\u00023c;\ufffd\u0016\ufffd\u023eE \u0014(\ufffd\ufffd\ufffd\u0017\ufffd$\ufffd\ufffd\ufffdD\u0015h\u0012\u01c6':\ufffd\ufffd\ufffdC\ufffd#X8 \ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd=n\u007f ?\ufffd\ufffd\ufffdY\ufffd4\ufffd\ufffd?\ufffd\ufffd/_\u000fs\ufffd\ufffd\ufffd",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/140MM2026 - 106937637375380678.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Stoltzfus, J. &amp; R., Pets. v. Jackson, C., et al. - No. 140 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/141MAL2026 - 106908076372189628.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -71172,6 +71493,28 @@
       "special_hits": [],
       "title": "Commonwealth v. Daniels, A., Pet. - No. 143 EAL 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/143MM2026 - 106937651375381699.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "^O\ufffd\ufffd\ufffdI\ufffdHRR\ufffdS{M\ufffd;\ufffd \ufffd\ufffd\ufffd {\ufffd2U\ufffdB\ufffd\ufffd8:\u0000o\ufffd\ufffd\ufffdP\ufffd\u007f\ufffdx\ufffd \ufffd\ufffdza~\u0003\ufffd\ufffd\u0000\ufffd endstream endobj 35 0 obj < > endobj 39 0 obj < > endobj 40 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 46 0 R/Group< >/Tabs/S/Parent 35 0 R>> endobj 41 0 obj < > endobj 42 0 obj <...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/143MM2026 - 106937651375381699.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Mitchell, K., Pet. v. CCP of Lebanon Cnty. - No. 143 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/144MAL2026 - 106875840368721953.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -71194,6 +71537,28 @@
       "special_hits": [],
       "title": "Commonwealth v. Juarez-Hidalgo, U., Pet. - No. 144 MAL 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/144MM2026 - 106937899375400945.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\u0018\ufffd\ufffd)wT;)\u001b\ufffdJ.\ufffdj\ufffdI|\ufffd6\ufffd\u041e\ufffd\ufffd\ufffd|LM\ufffd\ufffd\ufffds\ufffd\ufffd7\ufffd\ufffd\ufffdP\ufffd{\ufffddi \ufffd\ufffdya\ufffd\u0000\ufffd\ufffd\u0000\ufffd endstream endobj 28 0 obj < > endobj 32 0 obj < > endobj 33 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 38 0 R/Group< >/Tabs/S/Parent 28 0 R>> endobj 34 0 obj < > endobj 35 0 obj < > endobj...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/144MM2026 - 106937899375400945.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Robertson, J., Pet. - No. 144 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/145MM2025 - 106745959354334802.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -71215,6 +71580,50 @@
       "score": 70,
       "special_hits": [],
       "title": "Sharpless, D., Pet. v. PA Board of Law Examiners - No. 145 MM 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/145MM2026 - 106937707375385466.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "Z \u0019\u07d0&\ufffdZ7\ufffd\ufffd\ufffdXfO@\u03e5\u051a\u000e \u0019\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd \ufffd2T,S\ufffd\ufffd\ufffdMi\u0014y\u05e1O\ufffd\u007f\ufffd}\ufffd\ufffd\ufffd\ufffd$x\ufffd \ufffdDa\u04e4 \ufffd\ufffdq\ufffd:3\u0003\ufffd\ufffd286\ufffdp\ufffd\ufffdMh\ufffd#7r > endobj 39 0 obj < > endobj 40 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 46 0 R/Group< >/Tabs/S/Parent 35 0 R>> endobj 41 0 obj < > endobj 42 0 obj < > endobj 43...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/145MM2026 - 106937707375385466.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Reid, D., Jr., Pet. - No. 145 MM 2026"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/146MM2026 - 106937669375383669.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "O\ufffd\ufffd\ufffdIQKZ$|\ufffd\ufffd\ufffd\ufffdwj\u0013\ufffd \ufffd9\u0018\ufffd\ufffde\ufffdZ\ufffd\ufffd\ufffdqp\u0000\ufffd\ufffd{;!o\ufffd\u0006\ufffdB=<[\ufffd\ufffd\ufffd\u0006\ufffdM\ufffd\ufffd endstream endobj 28 0 obj < > endobj 32 0 obj < > endobj 33 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 38 0 R/Group< >/Tabs/S/Parent 28 0 R>> endobj 34 0 obj < > endobj 35 0 obj < > endobj...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/146MM2026 - 106937669375383669.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Martinez, E., Pet. v. Ransom, K. et al. - No. 146 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/147EAL2026 - 106875798368709690.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -71259,6 +71668,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Commonwealth v. Quinones, L., Pet. - No. 147 MAL 2026"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/147MM2026 - 106937848375396452.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\ufffd\ufffddS(\ufffd\ufffd\ufffd\u0010 \ufffd\ufffd \ufffd\ufffd\ufffd\ufffd\u04e1#\ufffd\ufffd9\ufffd\ufffd\ufffd\ufffdK\ufffd\ufffd\ufffd)C\ufffdU\ufffd \ufffd\ufffd)\ufffd\"\ufffd:\ufffdY\ufffd\ufffd/\ufffdq\ufffd,\u063d\ufffd'i\ufffd\ufffd\ufffd,8Z.\ufffd\ufffdmY\ufffd^\ufffd\u000e\ufffd \ufffdE\ufffd\ufffdX\"g\ufffd\ufffd > endobj 32 0 obj < > endobj 33 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 38 0 R/Group< >/Tabs/S/Parent 28 0 R>> endobj 34 0 obj < > endobj 35 0 obj < > endobj 36 0 obj...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/147MM2026 - 106937848375396452.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "George, K., Pet. v. DOC, et al. - No. 147 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/148MAL2026 - 106914913372990228.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -72444,6 +72875,28 @@
       "special_hits": [],
       "title": "Co. of Lancaster v. AFSCME District Counsel, Pet. - No. 173 MAL 2026 (Granted)"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/173MM2026 - 106937685375384746.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\u0000\ufffd\u0007Pg\ufffdVo\ufffd4\ufffdv \ufffdc\ufffd<\ufffd\ufffd\ufffd*\ufffd\ufffd;\ufffd\ufffd \ufffd\ufffd\ufffd}\ufffdY ra[IJ>\ufffdmZ\u07185\u001b\u07d7\ufffd\u0010\ufffdv\ufffdY\u0015\u0000\ufffdM`\ufffd\ufffd\u0314\ufffd\ufffd\u0267\ufffd\ufffd:\ufffd\ufffd K\ufffd\ufffd!\ufffd3\ufffd\u001a?\ufffdV\ufffd/\u02a4\ufffd\"'7\ufffd\ufffd_\ufffd+\u0005\ufffd\ufffd8\\\ufffd\ufffdy\ufffd\ufffd\u00e2Ft \ufffd\u0014\ufffd }\ufffd\ufffd\ufffd\u0002&$\u0002Gf \u0006\ufffd\ufffd\u0001\ufffd\u01429\ufffd\ufffd\u0000\u00109\u009b`\ufffd\ufffd\ufffd endstream endobj 8 0 obj < >/Font< >>>/MediaBox[ 0 0 612 792]/Contents 9 0 R /Parent 2 0 R /Type/Page>> endobj 9 0 obj < >stream x\ufffd\ufffdZ\u024e\ufffdD\u0010\ufffd\ufffd\u0015\ufffd\u0002\ufffd\u0019\u0019\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdj\u03a0>\ufffd \u0004\u0012\u0012B\ufffd\ufffd\u0007\"7;lgdU\ufffd\u0328\ufffd\ufffdj\ufffd\ufffd\u03f1\ufffdX\ufffd\ufffd.\ufffd\ufffdb\ufffd\u0015R\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u03df\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdw\ufffd\ufffd\ufffd\u000f\ufffd\ufffd\u07df\ufffd\u02ef?/fE\ufffdL\ufffd",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/173MM2026 - 106937685375384746.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Reich, B., Pet. v. Hon. Judge - No. 173 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/173WAL2025 - 106699014349065777.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -72619,6 +73072,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Knorr, Jr., C., Pet. v. Luzerne Co CCP Judge - No. 177 MM 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/177MM2026 - 106937733375387883.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\ufffd\ufffd\u0007\ufffdY%\u00020\ufffd\ufffd\u0015\u0000)\u0017F\ufffd`(j\ufffd'\u0003\ufffd[vn\ufffd`j4\u007fH\ufffdd \u00cc@a\ufffd\u0005\ufffd?\ufffd*\ufffd\u0012\ufffd?\ufffd\u0001\ufffdY\ufffd#\u0017:\ufffd\ufffd\ufffd\ufffd\ufffdn\ufffdkw\ufffd,\ufffd\ufffdI\u0019\ufffdG\ufffd\ufffd\u0011\u0007\ufffd \ufffd\ufffd\bf\ufffd3\ufffd () \u0018\ufffdEr\ufffd\ufffd\u01b7\ufffd U+\ufffd\u001a\u0171\ufffdW\ufffd\ufffdBV\u019eQ]\ufffdj\ufffd\u001akz\ufffd\ufffd+o!UH\ufffd\ufffd\u0016\ufffdH\ufffd\ufffd\u000f\ufffdN\ufffdiD\ufffd\ufffd\ufffd\u0018\u00166\ufffd;\u00020 :'K\ufffd\ufffd\ufffd\ufffd>\u0013\ufffd\ufffdx*uC\b >/Font< >>>/MediaBox[ 0 0 612 792]/Contents 9 0 R /Parent 2 0 R /Type/Page>> endobj 9 0 obj < >stream x\ufffd\ufffdZ\u024e 7 \ufffd\ufffd+\ufffd *\u0012Em@\u0010\ufffd\ufffd\ufffd\ufffd9\ufffd |O\ufffd\u0000\u0001\ufffd \ufffd\ufffdC\ufffd\ufffd\ufffd*\ufffd\ufffd\ufffd=F\ufffd\ufffd\ufffd\u0019\ufffd+.\ufffd\ufffd\ufffd\ufffd\ufffdmN\u00e6\ufffd\ufffdc\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u01e7Oz{\ufffdw\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdj\ufffd\ufffdW\ufffd\ufffd\ufffd/\ufffd",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/177MM2026 - 106937733375387883.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Reich, B., Pet. v. Hon. Judge - No. 177 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/178MAL2026 - 106867812367961438.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -74200,6 +74675,28 @@
       "special_hits": [],
       "title": "Commonwealth v. Almodovar, E.; Pet. of: Leslie, T., Esq. - No. 201 MM 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/201MM2026 - 106937766375388723.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\ufffda\ufffd\ufffd\u06cf\ufffds\ufffdvZ\u0592\ufffd \u06e9\ufffd%\ufffd\u0684\ufffdJ{\u000e\ufffdw\ufffdg\ufffdZ\ufffd\ufffd\ufffd\ufffd\ufffd\u0000\ufffd\ufffd\ufffd~B\ufffd\ufffd\u000eb\ufffd\ufffdx\ufffd\ufffd\ufffd\u0003,\ufffd\ufffd\ufffd endstream endobj 42 0 obj < > endobj 46 0 obj < > endobj 47 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 54 0 R/Group< >/Tabs/S/Parent 42 0 R>> endobj 48 0 obj < > endobj 49 0 obj < > endobj...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/201MM2026 - 106937766375388723.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Boggs, L., Pet. v. Murray, C., et al. - No. 201 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/202MM2025 - 106724605351853862.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -74222,6 +74719,28 @@
       "special_hits": [],
       "title": "Commonwealth v. Redmond, G., Pet. - No. 202 MM 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/202MM2026 - 106937798375391077.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "\ufffda\ufffd\ufffdbG\ufffd\ufffd\ufffdV\ufffd`b\ufffd\ufffd\ufffd\u00b7l\u0013\ufffd \ufffd\ufffd\u001b\ufffd\u97e9 \u0015\ufffd\ufffd\ufffd\ufffd=\ufffdF\ufffd\ufffd\u0011\u0005\ufffd;H\u0014\ufffd\ufffd\ufffd\ufffd\u001b\ufffd7H\u001b\ufffd\ufffd endstream endobj 42 0 obj < > endobj 46 0 obj < > endobj 47 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]>>/MediaBox[0 0 612 792]/Contents 54 0 R/Group< >/Tabs/S/Parent 42 0 R>> endobj 48 0 obj < > endobj 49 0 obj < >...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/202MM2026 - 106937798375391077.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Boggs, L., Pet. v. Murray, C., et al. - No. 202 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/203MM2025 - 106724566351851774.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -74243,6 +74762,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Commonwealth v. Williams, P., Pet. - No. 203 MM 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/203MM2026 - 106937833375394846.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "\u001aU\u0212\ufffd\ufffd\u0019\ufffd!H^\"c\u0005=d(\ufffd\ufffd:\ufffd\ufffd\ufffde#\ufffd\ufffdo\ufffd\ufffd\u0006\ufffdb`\ufffd\ufffdr\ufffd:T\ufffd\ufffd\ufffd,\ufffdDJ\ufffdiv\ufffd\ufffdQzfS41\ufffd\ufffdg B\ufffd0^\ufffdG\ufffd\ufffd(p\ufffd\ufffd\u064c=\ufffdnQ\b\ufffd\ufffd/\u001572\ufffd[,\u0003\ufffd\u0004\u0000\uea98\ufffd\ufffd\ufffd\ufffd\ufffd0\ufffdne`F\ufffdG`\ufffd\ufffd\ufffdV\ufffd\ufffd\ufffd\"\ufffdc\ufffd\ufffdUVV\ufffd\ufffdI\ufffd\ufffd\ufffd\u0016<\ufffd\ufffd\ufffd4/\ufffdWAYs5\u0002S\ufffd\ufffd\ufffd\ufffd !JB\ufffd k\ufffd\ufffd\ufffdj\ufffd)\u0007\ufffd\ufffd\u03f6\ufffd8 >/Font< >>>/MediaBox[ 0 0 612 792]/Contents 9 0 R /Parent 2 0 R /Type/Page>> endobj 9 0 obj < >stream x\ufffd\ufffdW\u02ce\u00141 \ufffd\ufffd\u0015\ufffd\ufffd\ufffd8v \ufffd f\ufffd9\ufffd\ufffdw\u0010HH\b\ufffd\ufffd\u007f\ufffdy\ufffd#I/B\ufffdn\ufffd[=\ufffdJ\ufffd.W\u04bf\ufffd\ufffd \u0014\ufffd\ufffd\ufffd\ufffd_~\ufffd\ufffd\ufffd\ufffd\u0016\ufffd_\ufffd\u04db\u000f\ufffd\ufffdP\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdG\ufffd$\ufffdt\ufffd\ufffdv(\ufffd\u0015N",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/203MM2026 - 106937833375394846.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Ragan, G., Pet. v. Gibbons, S. - No. 203 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/204MM2025 - 106686360347710062.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -76481,6 +77022,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Commonwealth v. Wyant, D., Pet. - No. 261 WAL 2025 (Granted)"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/262MAL2025pco - 106937739375441163.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "]>>stream h\ufffdbb\u0000\u0001&F&}\u0016\u0006&\u0006\u0006\ufffd\u0014\u0010\u0278\bL\ufffd\u0002\ufffd\ufffd \ufffd b\u0003y \ufffd\ufffd?@\ufffd\u0001\u0000S\ufffd\u0005\u0016 endstream endobj5 0 obj < > endobj 6 0 obj < > endobj 7 0 obj < > endobj 8 0 obj < > endobj 9 0 obj < >>> endobj 10 0 obj < >/MediaBox[0 0 612 792]/Parent 6...",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/262MAL2025pco - 106937739375441163.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-25T18:10:27+00:00",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Commonwealth v. Galo-Ponce, E., Pet. - No. 262 MAL 2025"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/263WAL2025 - 106732471352764642.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -103874,6 +104437,13 @@
       "published_utc": "2026-05-28T04:00:00+00:00",
       "title": "PA-American Water Co. v. PA PUC - 355 &amp; 356 C.D. 2024"
     },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/358MD25_9-25-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/358MD25_9-25-26.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "C.D. v. PA State Police - 358 M.D. 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/360CD25_8-31-26.pdf": {
       "court": "Commonwealth Court",
       "first_seen_utc": "2026-08-31T17:47:28+00:00",
@@ -103985,6 +104555,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/390CD25_5-8-26.pdf",
       "published_utc": "2026-05-08T04:00:00+00:00",
       "title": "Dept. of L&amp;I v. UCBR - 390 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/391CD24_9-25-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/391CD24_9-25-26.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "In re: The Matter of Proceedings by the Redevelopment Authority of the County of Schuylkill, et al. ~ Appeal of: Reading Anthracite Company, et al. - Nos. 391 &amp; 748 C.D. 2024"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/392MD25_7-24-26.pdf": {
       "court": "Commonwealth Court",
@@ -104468,6 +105045,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/58CD25_5-18-26.pdf",
       "published_utc": "2026-05-18T04:00:00+00:00",
       "title": "D.J. Norman v. PA PUC - 58 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/591CD25_9-25-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/591CD25_9-25-26.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Formation Energy LLC v. South Union Township - 591 C.D. 2025"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/5CD25_4-7-26.pdf": {
       "court": "Commonwealth Court",
@@ -108900,6 +109484,27 @@
       "published_utc": "2026-09-24T04:00:00+00:00",
       "title": "Judgement Lists"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/092526 E.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/092526 E.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Judgement Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/092526 M.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/092526 M.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Judgement Lists"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/092526 W.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/092526 W.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Judgement Lists"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/2201EDA2025jo - 106712735350608739.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-03-13T20:29:02+00:00",
@@ -112701,6 +113306,13 @@
       "published_utc": "2026-09-15T04:00:00+00:00",
       "title": "Com. v. Gonzalez, M.\nNo. 1017 EDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A19019-26o - 106937568375373401.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A19019-26o - 106937568375373401.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Com. v. Collins, M.\nNo. 2195 EDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A19030-26m - 106924527373923787.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-09-15T19:26:37+00:00",
@@ -112812,6 +113424,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A22027-26m - 106933089374875578.pdf",
       "published_utc": "2026-09-22T04:00:00+00:00",
       "title": "Com. v. Radney, K.\nNo. 274 WDA 2026"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-A22042-26m - 106937611375379503.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-A22042-26m - 106937611375379503.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Com. v. Walker, R.\nNo. 1250 WDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-A22043-26m - 106936007375192121.pdf": {
       "court": "Superior Court",
@@ -119001,6 +119620,13 @@
       "published_utc": "2026-07-14T04:00:00+00:00",
       "title": "Com. v. Curry, R.\nNo. 1429 WDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S19013-26m - 106937562375373365.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S19013-26m - 106937562375373365.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Com. v. Sarver, B.\nNo. 1498 WDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S19016-26m - 106867702367952398.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-07-28T20:12:22+00:00",
@@ -120772,6 +121398,13 @@
       "published_utc": "2026-09-09T04:00:00+00:00",
       "title": "Stephenson, S. v. Brown-Schields, J.\nNo. 1742 MDA 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S26035-26m - 106937563375370835.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S26035-26m - 106937563375370835.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Moua, N. Wellspan Health\nNo. 1690 MDA 2025"
+    },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S26036-26m - 106875944368745361.pdf": {
       "court": "Superior Court",
       "first_seen_utc": "2026-08-04T19:23:00+00:00",
@@ -120876,6 +121509,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S27012-26o - 106903297371723571.pdf",
       "published_utc": "2026-08-27T04:00:00+00:00",
       "title": "Com. v. Gomery, E.\nNo. 2562 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S27013-26m - 106937559375370412.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S27013-26m - 106937559375370412.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Figueroa, D. v. Mayfair Operator\nNo. 2615 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S27015-26m - 106931703374732269.pdf": {
       "court": "Superior Court",
@@ -121274,6 +121914,13 @@
       "first_seen_utc": "2026-09-11T18:06:21+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S29026-26m - 106920874373569690.pdf",
       "published_utc": "2026-09-11T04:00:00+00:00",
+      "title": "Com. v. Oglesby, F.\nNo. 2729 EDA 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/J-S29026-26o - 106937588375378114.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/J-S29026-26o - 106937588375378114.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
       "title": "Com. v. Oglesby, F.\nNo. 2729 EDA 2025"
     },
     "https://www.pacourts.us/assets/opinions/Superior/out/J-S29027-26m - 106919007373443882.pdf": {
@@ -123299,6 +123946,13 @@
       "published_utc": "2026-09-18T04:00:00+00:00",
       "title": "Reargument Table"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport092526.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport092526.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Reargument Table"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/100EAL2026 - 106914892372985308.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-09-08T20:35:20+00:00",
@@ -124265,6 +124919,13 @@
       "published_utc": "2026-08-26T04:00:00+00:00",
       "title": "Northwestern Lehigh SD v. Piechota, M. - No. 139 MAL 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/139MM2026 - 106937617375379320.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/139MM2026 - 106937617375379320.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Commonwealth v. Moragne-El, B., Pet. - No. 139 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/13EAL2025 - 106749631354718309.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-04-15T20:00:09+00:00",
@@ -124328,6 +124989,13 @@
       "published_utc": "2026-04-15T04:00:00+00:00",
       "title": "Commonwealth v. Zamichieli, L., Pet. - No. 140 MM 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/140MM2026 - 106937637375380678.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/140MM2026 - 106937637375380678.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Stoltzfus, J. &amp; R., Pets. v. Jackson, C., et al. - No. 140 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/141MAL2026 - 106908076372189628.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-09-01T20:24:47+00:00",
@@ -124377,6 +125045,13 @@
       "published_utc": "2026-08-18T04:00:00+00:00",
       "title": "Commonwealth v. Daniels, A., Pet. - No. 143 EAL 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/143MM2026 - 106937651375381699.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/143MM2026 - 106937651375381699.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Mitchell, K., Pet. v. CCP of Lebanon Cnty. - No. 143 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/144MAL2026 - 106875840368721953.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-08-04T19:23:00+00:00",
@@ -124384,12 +125059,33 @@
       "published_utc": "2026-08-04T04:00:00+00:00",
       "title": "Commonwealth v. Juarez-Hidalgo, U., Pet. - No. 144 MAL 2026"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/144MM2026 - 106937899375400945.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/144MM2026 - 106937899375400945.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Commonwealth v. Robertson, J., Pet. - No. 144 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/145MM2025 - 106745959354334802.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-04-13T20:02:08+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/145MM2025 - 106745959354334802.pdf",
       "published_utc": "2026-04-13T04:00:00+00:00",
       "title": "Sharpless, D., Pet. v. PA Board of Law Examiners - No. 145 MM 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/145MM2026 - 106937707375385466.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/145MM2026 - 106937707375385466.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Commonwealth v. Reid, D., Jr., Pet. - No. 145 MM 2026"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/146MM2026 - 106937669375383669.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/146MM2026 - 106937669375383669.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Martinez, E., Pet. v. Ransom, K. et al. - No. 146 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/147EAL2026 - 106875798368709690.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -124404,6 +125100,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/147MAL2026 - 106853946366418890.pdf",
       "published_utc": "2026-07-15T04:00:00+00:00",
       "title": "Commonwealth v. Quinones, L., Pet. - No. 147 MAL 2026"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/147MM2026 - 106937848375396452.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/147MM2026 - 106937848375396452.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "George, K., Pet. v. DOC, et al. - No. 147 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/148MAL2026 - 106914913372990228.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -124783,6 +125486,13 @@
       "published_utc": "2026-08-25T04:00:00+00:00",
       "title": "Co. of Lancaster v. AFSCME District Counsel, Pet. - No. 173 MAL 2026 (Granted)"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/173MM2026 - 106937685375384746.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/173MM2026 - 106937685375384746.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Reich, B., Pet. v. Hon. Judge - No. 173 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/173WAL2025 - 106699014349065777.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-03-05T14:58:14+00:00",
@@ -124838,6 +125548,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/177MM2025 - 106772743357350055.pdf",
       "published_utc": "2026-05-05T04:00:00+00:00",
       "title": "Knorr, Jr., C., Pet. v. Luzerne Co CCP Judge - No. 177 MM 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/177MM2026 - 106937733375387883.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/177MM2026 - 106937733375387883.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Reich, B., Pet. v. Hon. Judge - No. 177 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/178MAL2026 - 106867812367961438.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -125343,6 +126060,13 @@
       "published_utc": "2026-03-24T04:00:00+00:00",
       "title": "Commonwealth v. Almodovar, E.; Pet. of: Leslie, T., Esq. - No. 201 MM 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/201MM2026 - 106937766375388723.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/201MM2026 - 106937766375388723.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Boggs, L., Pet. v. Murray, C., et al. - No. 201 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/202MM2025 - 106724605351853862.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-03-24T18:56:31+00:00",
@@ -125350,12 +126074,26 @@
       "published_utc": "2026-03-24T04:00:00+00:00",
       "title": "Commonwealth v. Redmond, G., Pet. - No. 202 MM 2025"
     },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/202MM2026 - 106937798375391077.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/202MM2026 - 106937798375391077.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Boggs, L., Pet. v. Murray, C., et al. - No. 202 MM 2026"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/203MM2025 - 106724566351851774.pdf": {
       "court": "Pennsylvania Supreme Court",
       "first_seen_utc": "2026-03-24T18:56:31+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/203MM2025 - 106724566351851774.pdf",
       "published_utc": "2026-03-24T04:00:00+00:00",
       "title": "Commonwealth v. Williams, P., Pet. - No. 203 MM 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/203MM2026 - 106937833375394846.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/203MM2026 - 106937833375394846.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Ragan, G., Pet. v. Gibbons, S. - No. 203 MM 2026"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/204MM2025 - 106686360347710062.pdf": {
       "court": "Pennsylvania Supreme Court",
@@ -126070,6 +126808,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Supreme/out/261WAL2025 - 106717566351109455.pdf",
       "published_utc": "2026-03-18T04:00:00+00:00",
       "title": "Commonwealth v. Wyant, D., Pet. - No. 261 WAL 2025 (Granted)"
+    },
+    "https://www.pacourts.us/assets/opinions/Supreme/out/262MAL2025pco - 106937739375441163.pdf": {
+      "court": "Pennsylvania Supreme Court",
+      "first_seen_utc": "2026-09-25T18:10:27+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Supreme/out/262MAL2025pco - 106937739375441163.pdf",
+      "published_utc": "2026-09-25T04:00:00+00:00",
+      "title": "Commonwealth v. Galo-Ponce, E., Pet. - No. 262 MAL 2025"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/263WAL2025 - 106732471352764642.pdf": {
       "court": "Pennsylvania Supreme Court",
