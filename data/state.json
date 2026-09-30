@@ -1,6 +1,6 @@
 {
-  "last_digest_slot": "2026-09-28-PM",
-  "last_digest_utc": "2026-09-28T18:20:55+00:00",
+  "last_digest_slot": "2026-09-30-AM",
+  "last_digest_utc": "2026-09-30T13:15:13+00:00",
   "processed": {
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/1000CD26_8-18-26.pdf": {
       "court": "Commonwealth Court",
@@ -8835,6 +8835,28 @@
       "score": 70,
       "special_hits": [],
       "title": "Red Notary &amp; Tags Multiservice, Inc. v. DOT - 460 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/464MD23ORD_9-30-26.pdf": {
+      "court": "Commonwealth Court",
+      "doc_types": [
+        "Order/Non-opinion"
+      ],
+      "excerpt": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 612 792] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x\ufffd\ufffdZ\ufffdn\u001b7\u0010}\u0017\ufffd\u007f\ufffd\ufffdn\u0010\ufffd\ufffd\ufffd[\u0014\u0005\u0012[\ufffd\u0014\ufffd\ufffd\ufffdJ\ufffd\"\ufffd\ufffdl\ufffd\ufffd\ufffd\u0229\ufffd\ufffd}f\ufffd\u0017\ufffd\"\ufffd\ufffd\u0016\ufffdX\ufffd\ufffd\u00fd\ufffd\ufffd\ufffd!g8\u070f\ufffd\u0001\ufffd \u007f\u0015\u0017\ufffd\u0011\u0003\u007fm%\u022a \u000e\ufffd=!W\ufffd\ufffd\ufffd\ufffdp\ufffd\ufffd N\ufffd\ufffdL\ufffd\ufffd",
+      "first_seen_utc": "2026-09-30T13:15:13+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/464MD23ORD_9-30-26.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-09-30T13:15:13+00:00",
+      "published_utc": "2026-09-30T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "C.A. Rogalski v. Com. of PA, Dept. of Ed. (PSPC) - 464 M.D. 2023 (RECONSIDERATION ORDER)"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/464MD23_8-31-26.pdf": {
       "court": "Commonwealth Court",
@@ -106654,6 +106676,13 @@
       "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/460CD25_8-3-26.pdf",
       "published_utc": "2026-08-03T04:00:00+00:00",
       "title": "Red Notary &amp; Tags Multiservice, Inc. v. DOT - 460 C.D. 2025"
+    },
+    "https://www.pacourts.us/assets/opinions/Commonwealth/out/464MD23ORD_9-30-26.pdf": {
+      "court": "Commonwealth Court",
+      "first_seen_utc": "2026-09-30T13:15:13+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Commonwealth/out/464MD23ORD_9-30-26.pdf",
+      "published_utc": "2026-09-30T04:00:00+00:00",
+      "title": "C.A. Rogalski v. Com. of PA, Dept. of Ed. (PSPC) - 464 M.D. 2023 (RECONSIDERATION ORDER)"
     },
     "https://www.pacourts.us/assets/opinions/Commonwealth/out/464MD23_8-31-26.pdf": {
       "court": "Commonwealth Court",
