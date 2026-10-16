@@ -15564,6 +15564,28 @@
       "special_hits": [],
       "title": "Public Reprimand with Condition for violations of Pa.R.P.C. 1.1, 1.3, 1.4, 1.5, 1.15, 1.16, and 3.2 and Pa.R.D.E. 203; Engaged in Incompetence, Neglect, and Failure to communicate in three immigration matters."
     },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Schuchardt Order2.pdf": {
+      "court": "Disciplinary Board",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "2\ufffdd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd!\ufffd\ufffd1Hi\u0013\ufffd\u0014\ufffd>-\ufffdiL\ufffd\ufffd\ufffd00.x\u0000\u0011e\ufffd\u0003\b0\u0000p \u000f/ endstream endobj 50 0 obj < >/Metadata 2 0 R/Pages 46 0 R/StructTreeRoot 6 0 R/Type/Catalog/ViewerPreferences< >>> endobj 51 0 obj < >/MediaBox[0 0 612 792]/Parent 47 0 R/Resources< >/Font< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]/XObject 68 0 R>>/Rotate 0/StructParents 0/Tabs/S/Type/Page>> endobj 52 0 obj < >str",
+      "first_seen_utc": "2026-10-16T15:07:12+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Schuchardt Order2.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-10-16T15:07:12+00:00",
+      "published_utc": "2026-10-16T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Disbarred Reciprocal with Tennessee"
+    },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Senich Order.pdf": {
       "court": "Disciplinary Board",
       "doc_types": [
@@ -73289,6 +73311,28 @@
       "special_hits": [],
       "title": "Reargument Table"
     },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport101626.pdf": {
+      "court": "Superior Court",
+      "doc_types": [
+        "Unknown"
+      ],
+      "excerpt": "20 0 R /Pages 2 0 R /StructTreeRoot 16 0 R /Type/Catalog/ViewerPreferences 521 0 R >> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 792 612] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj <...",
+      "first_seen_utc": "2026-10-16T15:07:12+00:00",
+      "flags": [
+        "PLACE"
+      ],
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport101626.pdf",
+      "pdf_link": null,
+      "place_hits": [
+        "Media"
+      ],
+      "processed_utc": "2026-10-16T15:07:12+00:00",
+      "published_utc": "2026-10-16T04:00:00+00:00",
+      "reversal_hits": [],
+      "score": 70,
+      "special_hits": [],
+      "title": "Reargument Table"
+    },
     "https://www.pacourts.us/assets/opinions/Supreme/out/100EAL2026 - 106914892372985308.pdf": {
       "court": "Pennsylvania Supreme Court",
       "doc_types": [
@@ -116847,6 +116891,13 @@
       "published_utc": "2026-06-24T04:00:00+00:00",
       "title": "Public Reprimand with Condition for violations of Pa.R.P.C. 1.1, 1.3, 1.4, 1.5, 1.15, 1.16, and 3.2 and Pa.R.D.E. 203; Engaged in Incompetence, Neglect, and Failure to communicate in three immigration matters."
     },
+    "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Schuchardt Order2.pdf": {
+      "court": "Disciplinary Board",
+      "first_seen_utc": "2026-10-16T15:07:12+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Schuchardt Order2.pdf",
+      "published_utc": "2026-10-16T04:00:00+00:00",
+      "title": "Disbarred Reciprocal with Tennessee"
+    },
     "https://www.pacourts.us/assets/opinions/DisciplinaryBoard/out/Senich Order.pdf": {
       "court": "Disciplinary Board",
       "first_seen_utc": "2026-10-14T18:15:29+00:00",
@@ -135507,6 +135558,13 @@
       "first_seen_utc": "2026-10-09T15:45:17+00:00",
       "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport100926.pdf",
       "published_utc": "2026-10-09T04:00:00+00:00",
+      "title": "Reargument Table"
+    },
+    "https://www.pacourts.us/assets/opinions/Superior/out/WestReport101626.pdf": {
+      "court": "Superior Court",
+      "first_seen_utc": "2026-10-16T15:07:12+00:00",
+      "link": "https://www.pacourts.us/assets/opinions/Superior/out/WestReport101626.pdf",
+      "published_utc": "2026-10-16T04:00:00+00:00",
       "title": "Reargument Table"
     },
     "https://www.pacourts.us/assets/opinions/Supreme/out/100EAL2026 - 106914892372985308.pdf": {
